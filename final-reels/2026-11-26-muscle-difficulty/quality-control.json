@@ -1,0 +1,40 @@
+{
+  "opening_question_audible": true,
+  "duration_seconds": 53.89655172413792,
+  "frames": 1563,
+  "resolution": "1080x1920",
+  "fps": 29,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "color": "SDR Rec.709",
+  "items": 6,
+  "tiers": [
+    "SUPER EASY",
+    "PRETTY EASY",
+    "ANNOYING",
+    "NEARLY IMPOSSIBLE"
+  ],
+  "forearms_omitted": true,
+  "calves_bottom_row": true,
+  "original_background_preserved": true,
+  "approved_table_stomach_placement": true,
+  "first_second_continuous_source": true,
+  "repeated_presenter_frame_pairs": 0,
+  "all_six_announcements_audible": true,
+  "announcement_rms": [
+    0.10454019159078598,
+    0.11433006078004837,
+    0.13390100002288818,
+    0.11340836435556412,
+    0.11766709387302399,
+    0.12446244806051254
+  ],
+  "announcements_before_presenter_tiers": true,
+  "reveals_after_spoken_tiers": true,
+  "voice_overlap_samples": 0,
+  "audio_master_correlation": 0.999713926374613,
+  "voice": "Kokoro af_heart",
+  "paid_services_used": false,
+  "file_bytes": 43895145,
+  "sha256": "24fa68c307bd03e1136e120e41680435c3ecca010d94e1c88d6fee7c66a62701"
+}

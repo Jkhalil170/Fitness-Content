@@ -1,0 +1,1115 @@
+{
+  "duration": 53.89655172413792,
+  "fps": 29,
+  "voice": "af_heart",
+  "items": [
+    {
+      "index": 0,
+      "item": "Abs",
+      "row": 3,
+      "rating": "Nearly impossible",
+      "context_text": "Inconsistent routines. Poor sleep. Frequent restaurant meals. Abs.",
+      "context_file": "context-00.wav",
+      "voice": "af_heart",
+      "speed": 0.95,
+      "file": "abs.wav",
+      "duration": 10.275862068965516,
+      "announcement": "Abs.",
+      "context_start": 4.24,
+      "start": 0,
+      "ai_start": 3.662,
+      "ai_duration": 0.901,
+      "spoken_rating": "Nearly impossible",
+      "tier_at": 5.0939310344827575,
+      "reveal": 6.517241379310345,
+      "parts": [
+        {
+          "source": "6315",
+          "source_start": 0.0,
+          "source_end": 5.0,
+          "frame_start": 0,
+          "frame_end": 145,
+          "frames": 145,
+          "offset": 0.0,
+          "spoken": false,
+          "kind": "quiet",
+          "overlap_frames": 0
+        },
+        {
+          "source": "6315",
+          "source_start": 9.689655172413794,
+          "source_end": 11.586206896551724,
+          "frame_start": 281,
+          "frame_end": 336,
+          "frames": 55,
+          "offset": 4.827586206896552,
+          "spoken": true,
+          "kind": "rating",
+          "overlap_frames": 5,
+          "speech_start": 9.956,
+          "speech_end": 11.158,
+          "voice_start": 9.706,
+          "voice_end": 11.586206896551724,
+          "complete_audio_tail_seconds": 0.4282068965517247
+        },
+        {
+          "source": "6315",
+          "source_start": 19.310344827586206,
+          "source_end": 23.0,
+          "frame_start": 560,
+          "frame_end": 667,
+          "frames": 107,
+          "offset": 6.586206896551723,
+          "spoken": true,
+          "kind": "explanation",
+          "overlap_frames": 4,
+          "speech_start": 19.591,
+          "speech_end": 22.593,
+          "voice_start": 19.310344827586206,
+          "voice_end": 23.0,
+          "complete_audio_tail_seconds": 0.40700000000000003
+        }
+      ],
+      "words": [
+        {
+          "text": "Nearly",
+          "start": 5.043931034482757,
+          "end": 5.417931034482757
+        },
+        {
+          "text": "impossible.",
+          "start": 5.417931034482757,
+          "end": 6.435931034482756
+        },
+        {
+          "text": "Abs",
+          "start": 6.786862068965519,
+          "end": 7.115862068965516
+        },
+        {
+          "text": "barely",
+          "start": 7.115862068965516,
+          "end": 7.555862068965517
+        },
+        {
+          "text": "grow",
+          "start": 7.555862068965517,
+          "end": 7.915862068965517
+        },
+        {
+          "text": "and",
+          "start": 7.915862068965517,
+          "end": 8.155862068965519
+        },
+        {
+          "text": "it's",
+          "start": 8.155862068965519,
+          "end": 8.375862068965517
+        },
+        {
+          "text": "true",
+          "start": 8.375862068965517,
+          "end": 8.575862068965517
+        },
+        {
+          "text": "that",
+          "start": 8.575862068965517,
+          "end": 8.815862068965519
+        },
+        {
+          "text": "they're",
+          "start": 8.815862068965519,
+          "end": 9.015862068965518
+        },
+        {
+          "text": "made",
+          "start": 9.015862068965518,
+          "end": 9.195862068965518
+        },
+        {
+          "text": "in",
+          "start": 9.195862068965518,
+          "end": 9.395862068965517
+        },
+        {
+          "text": "the",
+          "start": 9.395862068965517,
+          "end": 9.535862068965518
+        },
+        {
+          "text": "kitchen.",
+          "start": 9.535862068965518,
+          "end": 10.048862068965516
+        }
+      ],
+      "incoming_crossfade_frames": 0,
+      "seams": [
+        {
+          "at": 4.827586206896552,
+          "frames": 5
+        },
+        {
+          "at": 6.586206896551723,
+          "frames": 4
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "item": "Chest",
+      "row": 1,
+      "rating": "Pretty easy",
+      "context_text": "Inconsistent routines. Poor sleep. Frequent restaurant meals. Chest.",
+      "context_file": "context-01.wav",
+      "voice": "af_heart",
+      "speed": 0.95,
+      "file": "chest.wav",
+      "duration": 8.068965517241379,
+      "announcement": "Chest.",
+      "context_start": 4.16,
+      "start": 10.172413793103447,
+      "ai_start": 10.322413793103447,
+      "ai_duration": 0.9383333333333334,
+      "spoken_rating": "Pretty easy",
+      "tier_at": 11.553413793103447,
+      "reveal": 12.379310344827585,
+      "parts": [
+        {
+          "source": "6315",
+          "source_start": 27.0,
+          "source_end": 29.344827586206897,
+          "frame_start": 783,
+          "frame_end": 851,
+          "frames": 68,
+          "offset": 0.0,
+          "spoken": true,
+          "kind": "rating",
+          "overlap_frames": 0,
+          "speech_start": 28.381,
+          "speech_end": 28.971,
+          "voice_start": 28.181,
+          "voice_end": 29.344827586206897,
+          "complete_audio_tail_seconds": 0.3738275862068967
+        },
+        {
+          "source": "6315",
+          "source_start": 32.793103448275865,
+          "source_end": 36.241379310344826,
+          "frame_start": 951,
+          "frame_end": 1051,
+          "frames": 100,
+          "offset": 2.206896551724138,
+          "spoken": true,
+          "kind": "explanation",
+          "overlap_frames": 4,
+          "speech_start": 33.055,
+          "speech_end": 35.807,
+          "voice_start": 32.793103448275865,
+          "voice_end": 36.241379310344826,
+          "complete_audio_tail_seconds": 0.43437931034482347
+        },
+        {
+          "source": "6315",
+          "source_start": 38.93103448275862,
+          "source_end": 41.48275862068966,
+          "frame_start": 1129,
+          "frame_end": 1203,
+          "frames": 74,
+          "offset": 5.517241379310344,
+          "spoken": true,
+          "kind": "explanation",
+          "overlap_frames": 4,
+          "speech_start": 39.191,
+          "speech_end": 41.07,
+          "voice_start": 38.93103448275862,
+          "voice_end": 41.48275862068966,
+          "complete_audio_tail_seconds": 0.4127586206896581
+        }
+      ],
+      "words": [
+        {
+          "text": "Pretty",
+          "start": 11.503413793103448,
+          "end": 11.692413793103448
+        },
+        {
+          "text": "easy.",
+          "start": 11.692413793103448,
+          "end": 12.283413793103449
+        },
+        {
+          "text": "Bench",
+          "start": 12.561206896551717,
+          "end": 12.826206896551717
+        },
+        {
+          "text": "press,",
+          "start": 12.826206896551717,
+          "end": 13.146206896551725
+        },
+        {
+          "text": "incline",
+          "start": 13.366206896551724,
+          "end": 13.686206896551717
+        },
+        {
+          "text": "press",
+          "start": 13.686206896551717,
+          "end": 13.946206896551722
+        },
+        {
+          "text": "and",
+          "start": 13.946206896551722,
+          "end": 14.206206896551727
+        },
+        {
+          "text": "progressive",
+          "start": 14.206206896551727,
+          "end": 14.586206896551722
+        },
+        {
+          "text": "overload.",
+          "start": 14.586206896551722,
+          "end": 15.573206896551717
+        },
+        {
+          "text": "Pretty",
+          "start": 15.869620689655179,
+          "end": 16.13862068965517
+        },
+        {
+          "text": "clean",
+          "start": 16.13862068965517,
+          "end": 16.458620689655163
+        },
+        {
+          "text": "and",
+          "start": 16.458620689655163,
+          "end": 16.658620689655166
+        },
+        {
+          "text": "straightforward",
+          "start": 16.658620689655166,
+          "end": 17.178620689655162
+        },
+        {
+          "text": "to",
+          "start": 17.178620689655162,
+          "end": 17.53862068965516
+        },
+        {
+          "text": "grow.",
+          "start": 17.53862068965516,
+          "end": 18.008620689655174
+        }
+      ],
+      "incoming_crossfade_frames": 3,
+      "seams": [
+        {
+          "at": 2.206896551724138,
+          "frames": 4
+        },
+        {
+          "at": 5.517241379310344,
+          "frames": 4
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "item": "Quads",
+      "row": 0,
+      "rating": "Very easy",
+      "context_text": "Inconsistent routines. Poor sleep. Frequent restaurant meals. Quads.",
+      "context_file": "context-02.wav",
+      "voice": "af_heart",
+      "speed": 0.95,
+      "file": "quads.wav",
+      "duration": 9.655172413793103,
+      "announcement": "Quads.",
+      "context_start": 4.18,
+      "start": 18.137931034482758,
+      "ai_start": 18.287931034482757,
+      "ai_duration": 0.9183333333333333,
+      "spoken_rating": "Very easy",
+      "tier_at": 19.50182758620689,
+      "reveal": 20.448275862068964,
+      "parts": [
+        {
+          "source": "6315",
+          "source_start": 44.793103448275865,
+          "source_end": 47.241379310344826,
+          "frame_start": 1299,
+          "frame_end": 1370,
+          "frames": 71,
+          "offset": 0.0,
+          "spoken": true,
+          "kind": "rating",
+          "overlap_frames": 0,
+          "speech_start": 46.157,
+          "speech_end": 46.878,
+          "voice_start": 45.956999999999994,
+          "voice_end": 47.241379310344826,
+          "complete_audio_tail_seconds": 0.3633793103448255
+        },
+        {
+          "source": "6315",
+          "source_start": 50.93103448275862,
+          "source_end": 53.86206896551724,
+          "frame_start": 1477,
+          "frame_end": 1562,
+          "frames": 85,
+          "offset": 2.310344827586207,
+          "spoken": true,
+          "kind": "explanation",
+          "overlap_frames": 4,
+          "speech_start": 51.208,
+          "speech_end": 53.442,
+          "voice_start": 50.93103448275862,
+          "voice_end": 53.86206896551724,
+          "complete_audio_tail_seconds": 0.42006896551723827
+        },
+        {
+          "source": "6315",
+          "source_start": 61.41379310344828,
+          "source_end": 65.96551724137932,
+          "frame_start": 1781,
+          "frame_end": 1913,
+          "frames": 132,
+          "offset": 5.1034482758620685,
+          "spoken": true,
+          "kind": "explanation",
+          "overlap_frames": 4,
+          "speech_start": 61.685,
+          "speech_end": 65.534,
+          "voice_start": 61.41379310344828,
+          "voice_end": 65.96551724137932,
+          "complete_audio_tail_seconds": 0.4315172413793107
+        }
+      ],
+      "words": [
+        {
+          "text": "Very",
+          "start": 19.451827586206896,
+          "end": 19.7648275862069
+        },
+        {
+          "text": "easy.",
+          "start": 19.7648275862069,
+          "end": 20.362827586206897
+        },
+        {
+          "text": "Your",
+          "start": 20.64524137931035,
+          "end": 20.817241379310346
+        },
+        {
+          "text": "quads",
+          "start": 20.817241379310346,
+          "end": 21.19724137931034
+        },
+        {
+          "text": "respond",
+          "start": 21.19724137931034,
+          "end": 21.557241379310355
+        },
+        {
+          "text": "really",
+          "start": 21.557241379310355,
+          "end": 21.837241379310342
+        },
+        {
+          "text": "well",
+          "start": 21.837241379310342,
+          "end": 22.117241379310343
+        },
+        {
+          "text": "to",
+          "start": 22.117241379310343,
+          "end": 22.317241379310346
+        },
+        {
+          "text": "hard",
+          "start": 22.317241379310346,
+          "end": 22.497241379310353
+        },
+        {
+          "text": "training.",
+          "start": 22.497241379310353,
+          "end": 23.13924137931035
+        },
+        {
+          "text": "The",
+          "start": 23.432586206896552,
+          "end": 23.60758620689655
+        },
+        {
+          "text": "only",
+          "start": 23.60758620689655,
+          "end": 23.74758620689655
+        },
+        {
+          "text": "problem",
+          "start": 23.74758620689655,
+          "end": 24.08758620689654
+        },
+        {
+          "text": "is",
+          "start": 24.08758620689654,
+          "end": 24.36758620689654
+        },
+        {
+          "text": "that",
+          "start": 24.36758620689654,
+          "end": 24.507586206896555
+        },
+        {
+          "text": "most",
+          "start": 24.507586206896555,
+          "end": 24.707586206896544
+        },
+        {
+          "text": "guys",
+          "start": 24.707586206896544,
+          "end": 24.96758620689655
+        },
+        {
+          "text": "treat",
+          "start": 24.96758620689655,
+          "end": 25.307586206896538
+        },
+        {
+          "text": "leg",
+          "start": 25.307586206896538,
+          "end": 25.547586206896547
+        },
+        {
+          "text": "day",
+          "start": 25.547586206896547,
+          "end": 25.74758620689655
+        },
+        {
+          "text": "like",
+          "start": 25.74758620689655,
+          "end": 25.96758620689655
+        },
+        {
+          "text": "an",
+          "start": 25.96758620689655,
+          "end": 26.10758620689655
+        },
+        {
+          "text": "optional",
+          "start": 26.10758620689655,
+          "end": 26.567586206896543
+        },
+        {
+          "text": "subscription.",
+          "start": 26.567586206896543,
+          "end": 27.54158620689656
+        }
+      ],
+      "incoming_crossfade_frames": 3,
+      "seams": [
+        {
+          "at": 2.310344827586207,
+          "frames": 4
+        },
+        {
+          "at": 5.1034482758620685,
+          "frames": 4
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "item": "Triceps",
+      "row": 1,
+      "rating": "Pretty easy",
+      "context_text": "Inconsistent routines. Poor sleep. Frequent restaurant meals. Triceps.",
+      "context_file": "context-03.wav",
+      "voice": "af_heart",
+      "speed": 0.95,
+      "file": "triceps.wav",
+      "duration": 9.482758620689655,
+      "announcement": "Triceps.",
+      "context_start": 4.16,
+      "start": 27.689655172413794,
+      "ai_start": 27.839655172413792,
+      "ai_duration": 1.0236666666666667,
+      "spoken_rating": "Pretty easy",
+      "tier_at": 29.155551724137933,
+      "reveal": 30.0,
+      "parts": [
+        {
+          "source": "6316",
+          "source_start": 2.793103448275862,
+          "source_end": 5.241379310344827,
+          "frame_start": 81,
+          "frame_end": 152,
+          "frames": 71,
+          "offset": 0.0,
+          "spoken": true,
+          "kind": "rating",
+          "overlap_frames": 0,
+          "speech_start": 4.259,
+          "speech_end": 4.864,
+          "voice_start": 4.059,
+          "voice_end": 5.241379310344827,
+          "complete_audio_tail_seconds": 0.3773793103448275
+        },
+        {
+          "source": "6316",
+          "source_start": 7.9655172413793105,
+          "source_end": 10.413793103448276,
+          "frame_start": 231,
+          "frame_end": 302,
+          "frames": 71,
+          "offset": 2.310344827586207,
+          "spoken": true,
+          "kind": "explanation",
+          "overlap_frames": 4,
+          "speech_start": 8.235,
+          "speech_end": 9.998,
+          "voice_start": 7.9655172413793105,
+          "voice_end": 10.413793103448276,
+          "complete_audio_tail_seconds": 0.41579310344827647
+        },
+        {
+          "source": "6316",
+          "source_start": 15.413793103448276,
+          "source_end": 20.275862068965516,
+          "frame_start": 447,
+          "frame_end": 588,
+          "frames": 141,
+          "offset": 4.620689655172414,
+          "spoken": true,
+          "kind": "explanation",
+          "overlap_frames": 4,
+          "speech_start": 15.698,
+          "speech_end": 19.861,
+          "voice_start": 15.413793103448276,
+          "voice_end": 20.275862068965516,
+          "complete_audio_tail_seconds": 0.41486206896551536
+        }
+      ],
+      "words": [
+        {
+          "text": "Pretty",
+          "start": 29.105551724137932,
+          "end": 29.316551724137934
+        },
+        {
+          "text": "easy.",
+          "start": 29.316551724137934,
+          "end": 29.90055172413793
+        },
+        {
+          "text": "if",
+          "start": 30.18948275862069,
+          "end": 30.49448275862069
+        },
+        {
+          "text": "you're",
+          "start": 30.49448275862069,
+          "end": 30.874482758620694
+        },
+        {
+          "text": "training",
+          "start": 30.874482758620694,
+          "end": 31.154482758620688
+        },
+        {
+          "text": "them",
+          "start": 31.154482758620688,
+          "end": 31.414482758620686
+        },
+        {
+          "text": "properly.",
+          "start": 31.414482758620686,
+          "end": 32.21248275862069
+        },
+        {
+          "text": "and",
+          "start": 32.51455172413793,
+          "end": 32.696551724137926
+        },
+        {
+          "text": "they",
+          "start": 32.696551724137926,
+          "end": 32.85655172413793
+        },
+        {
+          "text": "actually",
+          "start": 32.85655172413793,
+          "end": 33.09655172413793
+        },
+        {
+          "text": "make",
+          "start": 33.09655172413793,
+          "end": 33.29655172413793
+        },
+        {
+          "text": "up",
+          "start": 33.29655172413793,
+          "end": 33.45655172413793
+        },
+        {
+          "text": "most",
+          "start": 33.45655172413793,
+          "end": 33.67655172413793
+        },
+        {
+          "text": "of",
+          "start": 33.67655172413793,
+          "end": 33.89655172413793
+        },
+        {
+          "text": "your",
+          "start": 33.89655172413793,
+          "end": 34.01655172413793
+        },
+        {
+          "text": "upper",
+          "start": 34.01655172413793,
+          "end": 34.276551724137924
+        },
+        {
+          "text": "arm",
+          "start": 34.276551724137924,
+          "end": 34.61655172413793
+        },
+        {
+          "text": "so",
+          "start": 34.61655172413793,
+          "end": 34.81655172413793
+        },
+        {
+          "text": "stop",
+          "start": 34.81655172413793,
+          "end": 35.09655172413793
+        },
+        {
+          "text": "giving",
+          "start": 35.09655172413793,
+          "end": 35.35655172413793
+        },
+        {
+          "text": "biceps",
+          "start": 35.35655172413793,
+          "end": 35.776551724137924
+        },
+        {
+          "text": "all",
+          "start": 35.776551724137924,
+          "end": 36.056551724137925
+        },
+        {
+          "text": "the",
+          "start": 36.056551724137925,
+          "end": 36.21655172413793
+        },
+        {
+          "text": "attention.",
+          "start": 36.21655172413793,
+          "end": 36.937551724137926
+        }
+      ],
+      "incoming_crossfade_frames": 3,
+      "seams": [
+        {
+          "at": 2.310344827586207,
+          "frames": 4
+        },
+        {
+          "at": 4.620689655172414,
+          "frames": 4
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "item": "Traps",
+      "row": 0,
+      "rating": "Very easy",
+      "context_text": "Inconsistent routines. Poor sleep. Frequent restaurant meals. Traps.",
+      "context_file": "context-05.wav",
+      "voice": "af_heart",
+      "speed": 0.95,
+      "file": "traps.wav",
+      "duration": 7.344827586206897,
+      "announcement": "Traps.",
+      "context_start": 4.1,
+      "start": 37.103448275862064,
+      "ai_start": 37.203448275862065,
+      "ai_duration": 0.913,
+      "spoken_rating": "Very easy",
+      "tier_at": 38.276448275862066,
+      "reveal": 39.3448275862069,
+      "parts": [
+        {
+          "source": "6316",
+          "source_start": 23.0,
+          "source_end": 25.379310344827587,
+          "frame_start": 667,
+          "frame_end": 736,
+          "frames": 69,
+          "offset": 0.0,
+          "spoken": true,
+          "kind": "rating",
+          "overlap_frames": 0,
+          "speech_start": 24.173,
+          "speech_end": 25.003,
+          "voice_start": 24.023,
+          "voice_end": 25.379310344827587,
+          "complete_audio_tail_seconds": 0.3763103448275871
+        },
+        {
+          "source": "6316",
+          "source_start": 30.275862068965516,
+          "source_end": 35.37931034482759,
+          "frame_start": 878,
+          "frame_end": 1026,
+          "frames": 148,
+          "offset": 2.241379310344828,
+          "spoken": true,
+          "kind": "explanation",
+          "overlap_frames": 4,
+          "speech_start": 30.556,
+          "speech_end": 34.947,
+          "voice_start": 30.275862068965516,
+          "voice_end": 35.37931034482759,
+          "complete_audio_tail_seconds": 0.43231034482758446
+        }
+      ],
+      "words": [
+        {
+          "text": "Very",
+          "start": 38.22644827586206,
+          "end": 38.62344827586207
+        },
+        {
+          "text": "easy.",
+          "start": 38.62344827586207,
+          "end": 39.246448275862065
+        },
+        {
+          "text": "Some",
+          "start": 39.54496551724137,
+          "end": 39.80896551724138
+        },
+        {
+          "text": "guys",
+          "start": 39.80896551724138,
+          "end": 40.02896551724138
+        },
+        {
+          "text": "barely",
+          "start": 40.02896551724138,
+          "end": 40.38896551724137
+        },
+        {
+          "text": "train",
+          "start": 40.38896551724137,
+          "end": 40.78896551724137
+        },
+        {
+          "text": "these",
+          "start": 40.78896551724137,
+          "end": 41.00896551724137
+        },
+        {
+          "text": "and",
+          "start": 41.00896551724137,
+          "end": 41.16896551724137
+        },
+        {
+          "text": "look",
+          "start": 41.16896551724137,
+          "end": 41.30896551724138
+        },
+        {
+          "text": "like",
+          "start": 41.30896551724138,
+          "end": 41.50896551724137
+        },
+        {
+          "text": "they",
+          "start": 41.50896551724137,
+          "end": 41.64896551724137
+        },
+        {
+          "text": "have",
+          "start": 41.64896551724137,
+          "end": 41.848965517241375
+        },
+        {
+          "text": "no",
+          "start": 41.848965517241375,
+          "end": 42.088965517241384
+        },
+        {
+          "text": "neck.",
+          "start": 42.088965517241384,
+          "end": 42.38896551724137
+        },
+        {
+          "text": "Just",
+          "start": 42.72896551724137,
+          "end": 42.828965517241365
+        },
+        {
+          "text": "breathe",
+          "start": 42.828965517241365,
+          "end": 43.16896551724137
+        },
+        {
+          "text": "and",
+          "start": 43.16896551724137,
+          "end": 43.46896551724138
+        },
+        {
+          "text": "they'll",
+          "start": 43.46896551724138,
+          "end": 43.708965517241374
+        },
+        {
+          "text": "grow.",
+          "start": 43.708965517241374,
+          "end": 44.19596551724138
+        }
+      ],
+      "incoming_crossfade_frames": 2,
+      "seams": [
+        {
+          "at": 2.241379310344828,
+          "frames": 4
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "item": "Calves",
+      "row": 3,
+      "rating": "Nearly impossible",
+      "context_text": "Inconsistent routines. Poor sleep. Frequent restaurant meals. Calves.",
+      "context_file": "context-06.wav",
+      "voice": "af_heart",
+      "speed": 0.95,
+      "file": "calves.wav",
+      "duration": 9.551724137931036,
+      "announcement": "Calves.",
+      "context_start": 4.2,
+      "start": 44.34482758620689,
+      "ai_start": 44.49482758620689,
+      "ai_duration": 0.9196666666666666,
+      "spoken_rating": "No way",
+      "tier_at": 45.68686206896551,
+      "reveal": 46.58620689655172,
+      "parts": [
+        {
+          "source": "6316",
+          "source_start": 39.06896551724138,
+          "source_end": 41.44827586206897,
+          "frame_start": 1133,
+          "frame_end": 1202,
+          "frames": 69,
+          "offset": 0.0,
+          "spoken": true,
+          "kind": "rating",
+          "overlap_frames": 0,
+          "speech_start": 40.411,
+          "speech_end": 41.072,
+          "voice_start": 40.211,
+          "voice_end": 41.44827586206897,
+          "complete_audio_tail_seconds": 0.37627586206896524
+        },
+        {
+          "source": "6316",
+          "source_start": 44.37931034482759,
+          "source_end": 47.41379310344828,
+          "frame_start": 1287,
+          "frame_end": 1375,
+          "frames": 88,
+          "offset": 2.241379310344828,
+          "spoken": true,
+          "kind": "explanation",
+          "overlap_frames": 4,
+          "speech_start": 44.656,
+          "speech_end": 46.999,
+          "voice_start": 44.37931034482759,
+          "voice_end": 47.41379310344828,
+          "complete_audio_tail_seconds": 0.41479310344827525
+        },
+        {
+          "source": "6316",
+          "source_start": 70.0,
+          "source_end": 74.41379310344827,
+          "frame_start": 2030,
+          "frame_end": 2158,
+          "frames": 128,
+          "offset": 5.137931034482759,
+          "spoken": true,
+          "kind": "explanation",
+          "overlap_frames": 4,
+          "speech_start": 70.253,
+          "speech_end": 73.991,
+          "voice_start": 70.0,
+          "voice_end": 74.41379310344827,
+          "complete_audio_tail_seconds": 0.4227931034482708
+        }
+      ],
+      "words": [
+        {
+          "text": "No",
+          "start": 45.63686206896551,
+          "end": 45.935862068965506
+        },
+        {
+          "text": "way.",
+          "start": 45.935862068965506,
+          "end": 46.48786206896551
+        },
+        {
+          "text": "Calves",
+          "start": 46.78289655172412,
+          "end": 47.18689655172413
+        },
+        {
+          "text": "are",
+          "start": 47.18689655172413,
+          "end": 47.30689655172412
+        },
+        {
+          "text": "basically",
+          "start": 47.30689655172412,
+          "end": 47.646896551724126
+        },
+        {
+          "text": "a",
+          "start": 47.646896551724126,
+          "end": 47.98689655172413
+        },
+        {
+          "text": "gift",
+          "start": 47.98689655172413,
+          "end": 48.146896551724126
+        },
+        {
+          "text": "from",
+          "start": 48.146896551724126,
+          "end": 48.42689655172413
+        },
+        {
+          "text": "your",
+          "start": 48.42689655172413,
+          "end": 48.606896551724134
+        },
+        {
+          "text": "parents.",
+          "start": 48.606896551724134,
+          "end": 49.38589655172413
+        },
+        {
+          "text": "But",
+          "start": 49.65575862068965,
+          "end": 49.85275862068964
+        },
+        {
+          "text": "keep",
+          "start": 49.85275862068964,
+          "end": 50.07275862068964
+        },
+        {
+          "text": "working",
+          "start": 50.07275862068964,
+          "end": 50.39275862068965
+        },
+        {
+          "text": "on",
+          "start": 50.39275862068965,
+          "end": 50.67275862068965
+        },
+        {
+          "text": "them",
+          "start": 50.67275862068965,
+          "end": 50.85275862068964
+        },
+        {
+          "text": "and",
+          "start": 50.85275862068964,
+          "end": 50.99275862068964
+        },
+        {
+          "text": "they'll",
+          "start": 50.99275862068964,
+          "end": 51.17275862068965
+        },
+        {
+          "text": "grow",
+          "start": 51.17275862068965,
+          "end": 51.31275862068965
+        },
+        {
+          "text": "as",
+          "start": 51.31275862068965,
+          "end": 51.472758620689646
+        },
+        {
+          "text": "much",
+          "start": 51.472758620689646,
+          "end": 51.63275862068964
+        },
+        {
+          "text": "as",
+          "start": 51.63275862068964,
+          "end": 51.832758620689646
+        },
+        {
+          "text": "your",
+          "start": 51.832758620689646,
+          "end": 51.972758620689646
+        },
+        {
+          "text": "training",
+          "start": 51.972758620689646,
+          "end": 52.27275862068964
+        },
+        {
+          "text": "and",
+          "start": 52.27275862068964,
+          "end": 52.51275862068965
+        },
+        {
+          "text": "genetics",
+          "start": 52.51275862068965,
+          "end": 52.912758620689644
+        },
+        {
+          "text": "allow.",
+          "start": 52.912758620689644,
+          "end": 53.65375862068966
+        }
+      ],
+      "incoming_crossfade_frames": 3,
+      "seams": [
+        {
+          "at": 2.241379310344828,
+          "frames": 4
+        },
+        {
+          "at": 5.137931034482759,
+          "frames": 4
+        }
+      ]
+    }
+  ],
+  "opening": {
+    "start": 0.1,
+    "file": "opening-question.wav",
+    "duration": 3.282,
+    "text": "Joseph, which are the hardest muscles for men to build?"
+  },
+  "forearms_omitted_by_user": true,
+  "paid_services_used": false
+}

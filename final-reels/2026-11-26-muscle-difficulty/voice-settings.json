@@ -1,0 +1,11 @@
+{
+  "voice": "af_heart",
+  "language": "American English",
+  "approved_sample_conditioning_tokens": 103,
+  "sample_style_sha256": "d1fcc69c125da937243d968b2d32166d3d8fe35c44ecf44f2e714b24472948ee",
+  "model_license": "Apache-2.0",
+  "runner_license": "MIT",
+  "paid_services_used": false,
+  "opening_question": "Joseph, which are the hardest muscles for men to build?",
+  "AI_only_muscle_names_after_question": true
+}

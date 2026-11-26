@@ -1,0 +1,212 @@
+[
+  {
+    "item": "Abs",
+    "before": 0,
+    "hero": {
+      "x": 270,
+      "y": 1060,
+      "width": 560,
+      "height": 400,
+      "top": 1060,
+      "right": 830,
+      "bottom": 1460,
+      "left": 270
+    },
+    "beforeRating": {
+      "x": 270,
+      "y": 1060,
+      "width": 560,
+      "height": 400,
+      "top": 1060,
+      "right": 830,
+      "bottom": 1460,
+      "left": 270
+    },
+    "final": {
+      "x": 228,
+      "y": 1494,
+      "width": 140,
+      "height": 100,
+      "top": 1494,
+      "right": 368,
+      "bottom": 1594,
+      "left": 228
+    },
+    "labelOpacity": 1
+  },
+  {
+    "item": "Chest",
+    "before": 0,
+    "hero": {
+      "x": 270,
+      "y": 1060,
+      "width": 560,
+      "height": 400,
+      "top": 1060,
+      "right": 830,
+      "bottom": 1460,
+      "left": 270
+    },
+    "beforeRating": {
+      "x": 270,
+      "y": 1060,
+      "width": 560,
+      "height": 400,
+      "top": 1060,
+      "right": 830,
+      "bottom": 1460,
+      "left": 270
+    },
+    "final": {
+      "x": 228,
+      "y": 1234,
+      "width": 140,
+      "height": 100,
+      "top": 1234,
+      "right": 368,
+      "bottom": 1334,
+      "left": 228
+    },
+    "labelOpacity": 1
+  },
+  {
+    "item": "Quads",
+    "before": 0,
+    "hero": {
+      "x": 270,
+      "y": 1060,
+      "width": 560,
+      "height": 400,
+      "top": 1060,
+      "right": 830,
+      "bottom": 1460,
+      "left": 270
+    },
+    "beforeRating": {
+      "x": 270,
+      "y": 1060,
+      "width": 560,
+      "height": 400,
+      "top": 1060,
+      "right": 830,
+      "bottom": 1460,
+      "left": 270
+    },
+    "final": {
+      "x": 228,
+      "y": 1104,
+      "width": 140,
+      "height": 100,
+      "top": 1104,
+      "right": 368,
+      "bottom": 1204,
+      "left": 228
+    },
+    "labelOpacity": 1
+  },
+  {
+    "item": "Triceps",
+    "before": 0,
+    "hero": {
+      "x": 270,
+      "y": 1060,
+      "width": 560,
+      "height": 400,
+      "top": 1060,
+      "right": 830,
+      "bottom": 1460,
+      "left": 270
+    },
+    "beforeRating": {
+      "x": 270,
+      "y": 1060,
+      "width": 560,
+      "height": 400,
+      "top": 1060,
+      "right": 830,
+      "bottom": 1460,
+      "left": 270
+    },
+    "final": {
+      "x": 384,
+      "y": 1234,
+      "width": 140,
+      "height": 100,
+      "top": 1234,
+      "right": 524,
+      "bottom": 1334,
+      "left": 384
+    },
+    "labelOpacity": 1
+  },
+  {
+    "item": "Traps",
+    "before": 0,
+    "hero": {
+      "x": 270,
+      "y": 1060,
+      "width": 560,
+      "height": 400,
+      "top": 1060,
+      "right": 830,
+      "bottom": 1460,
+      "left": 270
+    },
+    "beforeRating": {
+      "x": 270,
+      "y": 1060,
+      "width": 560,
+      "height": 400,
+      "top": 1060,
+      "right": 830,
+      "bottom": 1460,
+      "left": 270
+    },
+    "final": {
+      "x": 384,
+      "y": 1104,
+      "width": 140,
+      "height": 100,
+      "top": 1104,
+      "right": 524,
+      "bottom": 1204,
+      "left": 384
+    },
+    "labelOpacity": 1
+  },
+  {
+    "item": "Calves",
+    "before": 0,
+    "hero": {
+      "x": 270,
+      "y": 1060,
+      "width": 560,
+      "height": 400,
+      "top": 1060,
+      "right": 830,
+      "bottom": 1460,
+      "left": 270
+    },
+    "beforeRating": {
+      "x": 270,
+      "y": 1060,
+      "width": 560,
+      "height": 400,
+      "top": 1060,
+      "right": 830,
+      "bottom": 1460,
+      "left": 270
+    },
+    "final": {
+      "x": 384,
+      "y": 1494,
+      "width": 140,
+      "height": 100,
+      "top": 1494,
+      "right": 524,
+      "bottom": 1594,
+      "left": 384
+    },
+    "labelOpacity": 1
+  }
+]
