@@ -1,0 +1,195 @@
+[
+  {
+    "start": 0.0,
+    "end": 5.2,
+    "text": " peanut butter, chicken breast, whole eggs, protein bars, shrimp,",
+    "words": [
+      {
+        "start": 0.0,
+        "end": 0.24,
+        "word": " peanut"
+      },
+      {
+        "start": 0.24,
+        "end": 0.58,
+        "word": " butter,"
+      },
+      {
+        "start": 1.08,
+        "end": 1.42,
+        "word": " chicken"
+      },
+      {
+        "start": 1.42,
+        "end": 1.82,
+        "word": " breast,"
+      },
+      {
+        "start": 2.4,
+        "end": 2.72,
+        "word": " whole"
+      },
+      {
+        "start": 2.72,
+        "end": 3.04,
+        "word": " eggs,"
+      },
+      {
+        "start": 3.76,
+        "end": 3.98,
+        "word": " protein"
+      },
+      {
+        "start": 3.98,
+        "end": 4.42,
+        "word": " bars,"
+      },
+      {
+        "start": 5.06,
+        "end": 5.2,
+        "word": " shrimp,"
+      }
+    ]
+  },
+  {
+    "start": 5.86,
+    "end": 9.2,
+    "text": " regular cheese, non-fat Greek yogurt, almonds,",
+    "words": [
+      {
+        "start": 5.86,
+        "end": 6.14,
+        "word": " regular"
+      },
+      {
+        "start": 6.14,
+        "end": 6.56,
+        "word": " cheese,"
+      },
+      {
+        "start": 7.16,
+        "end": 7.38,
+        "word": " non"
+      },
+      {
+        "start": 7.38,
+        "end": 7.62,
+        "word": "-fat"
+      },
+      {
+        "start": 7.62,
+        "end": 7.86,
+        "word": " Greek"
+      },
+      {
+        "start": 7.86,
+        "end": 8.26,
+        "word": " yogurt,"
+      },
+      {
+        "start": 8.94,
+        "end": 9.2,
+        "word": " almonds,"
+      }
+    ]
+  },
+  {
+    "start": 9.9,
+    "end": 12.82,
+    "text": " lean ground beef, 95% or more, egg whites,",
+    "words": [
+      {
+        "start": 9.9,
+        "end": 10.06,
+        "word": " lean"
+      },
+      {
+        "start": 10.06,
+        "end": 10.28,
+        "word": " ground"
+      },
+      {
+        "start": 10.28,
+        "end": 10.52,
+        "word": " beef,"
+      },
+      {
+        "start": 10.72,
+        "end": 10.92,
+        "word": " 95"
+      },
+      {
+        "start": 10.92,
+        "end": 11.42,
+        "word": "%"
+      },
+      {
+        "start": 11.42,
+        "end": 11.56,
+        "word": " or"
+      },
+      {
+        "start": 11.56,
+        "end": 11.78,
+        "word": " more,"
+      },
+      {
+        "start": 12.3,
+        "end": 12.54,
+        "word": " egg"
+      },
+      {
+        "start": 12.54,
+        "end": 12.82,
+        "word": " whites,"
+      }
+    ]
+  },
+  {
+    "start": 13.6,
+    "end": 17.22,
+    "text": " low-fat cottage cheese, turkey breast, white fish.",
+    "words": [
+      {
+        "start": 13.6,
+        "end": 13.74,
+        "word": " low"
+      },
+      {
+        "start": 13.74,
+        "end": 13.94,
+        "word": "-fat"
+      },
+      {
+        "start": 13.94,
+        "end": 14.28,
+        "word": " cottage"
+      },
+      {
+        "start": 14.28,
+        "end": 14.68,
+        "word": " cheese,"
+      },
+      {
+        "start": 15.32,
+        "end": 15.64,
+        "word": " turkey"
+      },
+      {
+        "start": 15.64,
+        "end": 15.98,
+        "word": " breast,"
+      },
+      {
+        "start": 16.72,
+        "end": 16.9,
+        "word": " white"
+      },
+      {
+        "start": 16.9,
+        "end": 17.22,
+        "word": " fish."
+      }
+    ]
+  }
+]

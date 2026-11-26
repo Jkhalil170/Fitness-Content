@@ -1,0 +1,18 @@
+{
+  "text": "Peanut butter. Chicken breast. Whole eggs. Protein bars. Shrimp. Regular cheese. Nonfat Greek yogurt. Almonds. Lean ground beef, ninety-five percent or more. Egg whites. Low-fat cottage cheese. Turkey breast. White fish.",
+  "voice": "am_liam",
+  "speed": 1.02,
+  "lang": "en-us",
+  "sentence_pause": 0.45,
+  "clause_pause": 0.12,
+  "continuous": false,
+  "trim": true,
+  "sample_reference": "/workspace/work/kokoro-voice-comparison-2026-11-26/samples/am_liam.wav",
+  "model_sha256": "7d5df8ecf7d4b1878015a32686053fd0eebe2bc377234608764cc0ef3636a6c5",
+  "commercial_license": "Apache-2.0",
+  "paid_services_used": false,
+  "approved_sample_style_token_count": 103,
+  "approved_sample_style_sha256": "21934245c35439fa35387a2135a56fe2547ef2db04d89b272378c25dbddc15a7",
+  "matched_reference_style": true,
+  "note": "Use the exact Liam style vector used to generate the approved four-phrase sample; retain that conditioning across the full food-name context, then split announcements without resynthesis."
+}

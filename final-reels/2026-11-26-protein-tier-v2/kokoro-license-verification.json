@@ -1,0 +1,22 @@
+{
+  "checked_date": "2026-11-26",
+  "execution": "Local CPU, kokoro-onnx 0.6.1, no API key",
+  "commercial_use_permitted_by_published_licenses": true,
+  "model_license": "Apache-2.0",
+  "model_license_evidence": "https://huggingface.co/hexgrad/Kokoro-82M/blob/main/README.md",
+  "voice_list_evidence": "https://huggingface.co/hexgrad/Kokoro-82M/blob/main/VOICES.md",
+  "runner_license": "MIT",
+  "runner_license_evidence": "https://github.com/thewh1teagle/kokoro-onnx/blob/main/LICENSE",
+  "model_and_voice_download_source": "https://github.com/thewh1teagle/kokoro-onnx/releases/tag/model-files-v1.1",
+  "artifacts": {
+    "voices-v1.0.bin": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+    "kokoro-v1.0.onnx": "7d5df8ecf7d4b1878015a32686053fd0eebe2bc377234608764cc0ef3636a6c5"
+  },
+  "voice_ids_available": [
+    "am_michael",
+    "am_adam",
+    "am_liam"
+  ],
+  "video_edits_made": false,
+  "full_video_render_requires_user_voice_choice": true
+}

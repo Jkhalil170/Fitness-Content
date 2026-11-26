@@ -1,0 +1,14 @@
+{
+  "voice": "am_liam",
+  "same_model_and_voice_pack_as_approved_sample": true,
+  "approved_sample_conditioning_tokens": 103,
+  "original_raw_sha256": "7c4d0afcbb96769ceee405caf52be3926f6df42d7a2152cbe761af4dfbeb7897",
+  "reproduced_raw_sha256": "7c4d0afcbb96769ceee405caf52be3926f6df42d7a2152cbe761af4dfbeb7897",
+  "bit_identical_reproduction": true,
+  "waveform_correlation": 0.9999999999999999,
+  "sample_rate": 24000,
+  "matched_style_sha256": "21934245c35439fa35387a2135a56fe2547ef2db04d89b272378c25dbddc15a7",
+  "same_sample_synthesis_parameters": true,
+  "pitch_shift_or_voice_blending_used": false,
+  "paid_services_used": false
+}
