@@ -1,0 +1,19 @@
+{
+  "duration_before_seconds": 53.89655172413793,
+  "duration_after_seconds": 51.10344827586207,
+  "shorter_by_seconds": 2.793103448275862,
+  "silent_gaps_tightened": 6,
+  "joins": "two-frame dissolves in pauses",
+  "no_presenter_words_or_sentences_cut": true,
+  "protected_word_end_margins": true,
+  "joseph_address_pause_preserved": true,
+  "approved_Eric_voice_preserved": true,
+  "approved_lower_title_preserved": true,
+  "original_script_and_reveal_order_preserved": true,
+  "no_playback_speed_change": true,
+  "frames": 1482,
+  "repeated_presenter_frames": 0,
+  "exported_audio_master_correlation": 0.999986825469021,
+  "sha256": "6f16320083e64b4db6647122f587428fa5cd05b8b8474ea1e92a5d06661a80bb",
+  "bytes": 42557539
+}
