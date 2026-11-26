@@ -1,0 +1,52 @@
+{
+  "engine": "kokoro-onnx 0.6.1",
+  "model": "Kokoro v1.0 82M, local ONNX",
+  "sample_text": "Inconsistent routines. Poor sleep. Frequent restaurant meals. No consistent calorie deficit.",
+  "only_item_names": true,
+  "paid_services_used": false,
+  "model_license": "Apache-2.0",
+  "runner_license": "MIT",
+  "model_card": "https://huggingface.co/hexgrad/Kokoro-82M",
+  "runner_license_source": "https://github.com/thewh1teagle/kokoro-onnx/blob/main/LICENSE",
+  "short_phrase_limitation": "Official voice guide notes weaker quality on utterances below 10\u201320 tokens; sample bundles four item names with sentence pauses.",
+  "videos_modified": false,
+  "full_render_authorized": false,
+  "samples": [
+    {
+      "voice": "am_michael",
+      "text": "Inconsistent routines. Poor sleep. Frequent restaurant meals. No consistent calorie deficit.",
+      "language": "en-us",
+      "speed": 1.02,
+      "sample_rate": 24000,
+      "duration_seconds": 6.698666666666667,
+      "peak": 0.841461181640625,
+      "rms": 0.11974855843596399,
+      "generation_seconds": 5.596840295999982,
+      "mp3_sha256": "d9432d2d509c7158415834dac9b46e8e80cab982f5f5d4eaa4829dd5943adbb2"
+    },
+    {
+      "voice": "am_adam",
+      "text": "Inconsistent routines. Poor sleep. Frequent restaurant meals. No consistent calorie deficit.",
+      "language": "en-us",
+      "speed": 1.02,
+      "sample_rate": 24000,
+      "duration_seconds": 5.696,
+      "peak": 0.839019775390625,
+      "rms": 0.12340194538196658,
+      "generation_seconds": 4.400641474999929,
+      "mp3_sha256": "07582d74a729f9221f7f77803bd88c1951c283c6810c9d43cf5a27178dabeccd"
+    },
+    {
+      "voice": "am_liam",
+      "text": "Inconsistent routines. Poor sleep. Frequent restaurant meals. No consistent calorie deficit.",
+      "language": "en-us",
+      "speed": 1.02,
+      "sample_rate": 24000,
+      "duration_seconds": 5.504,
+      "peak": 0.840423583984375,
+      "rms": 0.12517018609218442,
+      "generation_seconds": 4.124997794999899,
+      "mp3_sha256": "55bc5e22b5b7fa2f6f393238a4d463c922a62f45480438a6d21a6e0ad98fa2e7"
+    }
+  ]
+}
