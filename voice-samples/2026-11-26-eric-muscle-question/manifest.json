@@ -1,0 +1,20 @@
+{
+  "model": "Kokoro v1.0 82M ONNX",
+  "runner": "kokoro-onnx0.6.1",
+  "model_license": "Apache-2.0",
+  "runner_license": "MIT",
+  "paid_services_used": false,
+  "samples": [
+    {
+      "voice": "am_eric",
+      "text": "Joseph, which are the hardest muscles for men to build? Abs. Chest. Quads. Triceps. Traps. Calves.",
+      "speed": 1.0,
+      "duration": 5.658666666666667,
+      "sample_rate": 24000,
+      "input_integrated_lufs": "-21.96",
+      "gain_db": 3.960000000000001,
+      "processing": "constant gain only; 6ms edge fades; no time stretch, pitch shift, denoise, compression or limiter",
+      "generated_together": true
+    }
+  ]
+}

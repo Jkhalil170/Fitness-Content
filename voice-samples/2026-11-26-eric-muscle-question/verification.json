@@ -1,0 +1,91 @@
+[
+  {
+    "voice": "am_eric",
+    "transcript": "Joseph which are the hardest muscles for men to build abs chest quads triceps traps calves",
+    "words": [
+      {
+        "word": " Joseph",
+        "start": 0.0,
+        "end": 0.48
+      },
+      {
+        "word": " which",
+        "start": 0.48,
+        "end": 0.68
+      },
+      {
+        "word": " are",
+        "start": 0.68,
+        "end": 0.82
+      },
+      {
+        "word": " the",
+        "start": 0.82,
+        "end": 0.92
+      },
+      {
+        "word": " hardest",
+        "start": 0.92,
+        "end": 1.16
+      },
+      {
+        "word": " muscles",
+        "start": 1.16,
+        "end": 1.56
+      },
+      {
+        "word": " for",
+        "start": 1.56,
+        "end": 1.8
+      },
+      {
+        "word": " men",
+        "start": 1.8,
+        "end": 1.96
+      },
+      {
+        "word": " to",
+        "start": 1.96,
+        "end": 2.1
+      },
+      {
+        "word": " build",
+        "start": 2.1,
+        "end": 2.44
+      },
+      {
+        "word": " abs",
+        "start": 2.44,
+        "end": 3.0
+      },
+      {
+        "word": " chest",
+        "start": 3.0,
+        "end": 3.38
+      },
+      {
+        "word": " quads",
+        "start": 3.38,
+        "end": 3.94
+      },
+      {
+        "word": " triceps",
+        "start": 3.94,
+        "end": 4.46
+      },
+      {
+        "word": " traps",
+        "start": 4.46,
+        "end": 4.82
+      },
+      {
+        "word": " calves",
+        "start": 4.82,
+        "end": 5.34
+      }
+    ],
+    "duration": 5.658666666666667,
+    "wording_verified": true,
+    "intonation_requires_listener_judgment": true
+  }
+]
