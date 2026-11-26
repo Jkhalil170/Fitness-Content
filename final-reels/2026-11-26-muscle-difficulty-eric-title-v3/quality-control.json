@@ -1,0 +1,14 @@
+{
+  "only_visual_change": "Approved title lowered from y20 to y140, 120px down",
+  "voice": "approved Eric am_eric with Joseph pause",
+  "aac_audio_bitstream_identical_to_eric_v2": true,
+  "composition_diff_only_title_top": true,
+  "frames": 1563,
+  "repeated_presenter_frames": 0,
+  "resolution": "1080x1920",
+  "fps": 29,
+  "color": "SDR Rec709",
+  "paid_services_used": false,
+  "sha256": "123a3b30fa4e48a5b12d8e95e133eff4f4ebf119635da6bc44c964e8d4b7a6ae",
+  "bytes": 44370314
+}
