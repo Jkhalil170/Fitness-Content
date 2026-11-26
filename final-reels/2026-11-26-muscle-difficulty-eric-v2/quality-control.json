@@ -1,0 +1,72 @@
+{
+  "voice": "Kokoro am_eric",
+  "approved_sample_sha256": "a115bbb3290f367c9d603d06417879e105c8c957935186bf6fd42451c28a6f7a",
+  "video_bitstream_identical": true,
+  "presenter_audio_source_unchanged": true,
+  "timing_and_visuals_unchanged": true,
+  "announcements_before_presenter": true,
+  "voice_overlap_samples": 0,
+  "paid_services_used": false,
+  "parts": [
+    {
+      "item": "question",
+      "source_start": 0,
+      "source_end": 2.8,
+      "timeline_start": 0.1,
+      "duration": 2.8,
+      "exported_rms": 0.1474323272705078
+    },
+    {
+      "item": "abs",
+      "source_start": 2.8,
+      "source_end": 3.29,
+      "timeline_start": 3.662,
+      "duration": 0.49,
+      "exported_rms": 0.13226686418056488
+    },
+    {
+      "item": "chest",
+      "source_start": 3.29,
+      "source_end": 3.74,
+      "timeline_start": 10.322413793103447,
+      "duration": 0.45,
+      "exported_rms": 0.12701459228992462
+    },
+    {
+      "item": "quads",
+      "source_start": 3.74,
+      "source_end": 4.175,
+      "timeline_start": 18.287931034482757,
+      "duration": 0.435,
+      "exported_rms": 0.1499691605567932
+    },
+    {
+      "item": "triceps",
+      "source_start": 4.175,
+      "source_end": 4.775,
+      "timeline_start": 27.839655172413792,
+      "duration": 0.6,
+      "exported_rms": 0.12673114240169525
+    },
+    {
+      "item": "traps",
+      "source_start": 4.775,
+      "source_end": 5.17,
+      "timeline_start": 37.203448275862065,
+      "duration": 0.395,
+      "exported_rms": 0.12060723453760147
+    },
+    {
+      "item": "calves",
+      "source_start": 5.17,
+      "source_end": 5.886666666666667,
+      "timeline_start": 44.49482758620689,
+      "duration": 0.7166666666666667,
+      "exported_rms": 0.08545698970556259
+    }
+  ],
+  "sha256": "cb39e4a30c0f427cc8b0f2eb1b4f8008950cff120bf570236a2e90486202df85",
+  "bytes": 44148289,
+  "duration": 53.89655172413792,
+  "exported_audio_master_correlation": 0.9999868973266064
+}
