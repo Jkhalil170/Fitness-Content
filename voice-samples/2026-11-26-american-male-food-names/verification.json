@@ -1,0 +1,176 @@
+[
+  {
+    "voice": "am_michael",
+    "transcript": "chicken breast, Greek yogurt, peanut butter.",
+    "words": [
+      {
+        "word": " chicken",
+        "start": 0.0,
+        "end": 0.4
+      },
+      {
+        "word": " breast,",
+        "start": 0.4,
+        "end": 0.88
+      },
+      {
+        "word": " Greek",
+        "start": 1.3,
+        "end": 1.4
+      },
+      {
+        "word": " yogurt,",
+        "start": 1.4,
+        "end": 1.88
+      },
+      {
+        "word": " peanut",
+        "start": 2.1,
+        "end": 2.3
+      },
+      {
+        "word": " butter.",
+        "start": 2.3,
+        "end": 2.74
+      }
+    ],
+    "duration": 3.0986666666666665,
+    "peak": 0.7941058874130249,
+    "clips": [
+      {
+        "name": "chicken-breast",
+        "start": 0.0,
+        "end": 1.1449583333333333,
+        "file": "split-clips/am_michael/chicken-breast.wav"
+      },
+      {
+        "name": "greek-yogurt",
+        "start": 1.1449583333333333,
+        "end": 2.044958333333333,
+        "file": "split-clips/am_michael/greek-yogurt.wav"
+      },
+      {
+        "name": "peanut-butter",
+        "start": 2.044958333333333,
+        "end": 3.0986666666666665,
+        "file": "split-clips/am_michael/peanut-butter.wav"
+      }
+    ]
+  },
+  {
+    "voice": "am_liam",
+    "transcript": "Chicken Breast Greek Yogurt Peanut Butter",
+    "words": [
+      {
+        "word": " Chicken",
+        "start": 0.0,
+        "end": 0.4
+      },
+      {
+        "word": " Breast",
+        "start": 0.4,
+        "end": 0.72
+      },
+      {
+        "word": " Greek",
+        "start": 0.72,
+        "end": 1.14
+      },
+      {
+        "word": " Yogurt",
+        "start": 1.14,
+        "end": 1.72
+      },
+      {
+        "word": " Peanut",
+        "start": 1.72,
+        "end": 2.12
+      },
+      {
+        "word": " Butter",
+        "start": 2.12,
+        "end": 2.44
+      }
+    ],
+    "duration": 2.864,
+    "peak": 0.7934892177581787,
+    "clips": [
+      {
+        "name": "chicken-breast",
+        "start": 0.0,
+        "end": 0.7749583333333333,
+        "file": "split-clips/am_liam/chicken-breast.wav"
+      },
+      {
+        "name": "greek-yogurt",
+        "start": 0.7749583333333333,
+        "end": 1.7749583333333334,
+        "file": "split-clips/am_liam/greek-yogurt.wav"
+      },
+      {
+        "name": "peanut-butter",
+        "start": 1.7749583333333334,
+        "end": 2.864,
+        "file": "split-clips/am_liam/peanut-butter.wav"
+      }
+    ]
+  },
+  {
+    "voice": "am_eric",
+    "transcript": "Chicken Breast Greek Yogurt Peanut Butter",
+    "words": [
+      {
+        "word": " Chicken",
+        "start": 0.0,
+        "end": 0.42
+      },
+      {
+        "word": " Breast",
+        "start": 0.42,
+        "end": 0.72
+      },
+      {
+        "word": " Greek",
+        "start": 0.72,
+        "end": 1.14
+      },
+      {
+        "word": " Yogurt",
+        "start": 1.14,
+        "end": 1.6
+      },
+      {
+        "word": " Peanut",
+        "start": 1.6,
+        "end": 1.98
+      },
+      {
+        "word": " Butter",
+        "start": 1.98,
+        "end": 2.28
+      }
+    ],
+    "duration": 2.8,
+    "peak": 0.6752541065216064,
+    "clips": [
+      {
+        "name": "chicken-breast",
+        "start": 0.0,
+        "end": 0.7749583333333333,
+        "file": "split-clips/am_eric/chicken-breast.wav"
+      },
+      {
+        "name": "greek-yogurt",
+        "start": 0.7749583333333333,
+        "end": 1.6549583333333333,
+        "file": "split-clips/am_eric/greek-yogurt.wav"
+      },
+      {
+        "name": "peanut-butter",
+        "start": 1.6549583333333333,
+        "end": 2.8,
+        "file": "split-clips/am_eric/peanut-butter.wav"
+      }
+    ]
+  }
+]

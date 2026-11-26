@@ -1,0 +1,42 @@
+{
+  "model": "Kokoro v1.0 82M ONNX",
+  "runner": "kokoro-onnx0.6.1",
+  "model_license": "Apache-2.0",
+  "runner_license": "MIT",
+  "paid_services_used": false,
+  "samples": [
+    {
+      "voice": "am_michael",
+      "text": "Chicken breast. Greek yogurt. Peanut butter.",
+      "speed": 1.0,
+      "duration": 3.0986666666666665,
+      "sample_rate": 24000,
+      "input_integrated_lufs": "-22.60",
+      "gain_db": 3.12,
+      "processing": "constant gain only; 6ms edge fades; no time stretch, pitch shift, denoise, compression or limiter",
+      "generated_together": true
+    },
+    {
+      "voice": "am_liam",
+      "text": "Chicken breast. Greek yogurt. Peanut butter.",
+      "speed": 1.0,
+      "duration": 2.864,
+      "sample_rate": 24000,
+      "input_integrated_lufs": "-21.00",
+      "gain_db": 2.63,
+      "processing": "constant gain only; 6ms edge fades; no time stretch, pitch shift, denoise, compression or limiter",
+      "generated_together": true
+    },
+    {
+      "voice": "am_eric",
+      "text": "Chicken breast. Greek yogurt. Peanut butter.",
+      "speed": 1.0,
+      "duration": 2.8,
+      "sample_rate": 24000,
+      "input_integrated_lufs": "-20.76",
+      "gain_db": 2.7600000000000016,
+      "processing": "constant gain only; 6ms edge fades; no time stretch, pitch shift, denoise, compression or limiter",
+      "generated_together": true
+    }
+  ]
+}
