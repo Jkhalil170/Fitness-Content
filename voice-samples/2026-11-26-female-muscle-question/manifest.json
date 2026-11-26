@@ -1,0 +1,42 @@
+{
+  "model": "Kokoro v1.0 82M ONNX",
+  "runner": "kokoro-onnx0.6.1",
+  "model_license": "Apache-2.0",
+  "runner_license": "MIT",
+  "paid_services_used": false,
+  "samples": [
+    {
+      "voice": "af_bella",
+      "text": "Joseph, which are the hardest muscles for men to build? Abs. Chest. Quads. Triceps. Traps. Calves.",
+      "speed": 0.95,
+      "duration": 7.365333333333333,
+      "sample_rate": 24000,
+      "input_integrated_lufs": "-22.19",
+      "gain_db": 0.31000000000000005,
+      "processing": "constant gain only; 6ms edge fades; no time stretch, pitch shift, denoise, compression or limiter",
+      "generated_together": true
+    },
+    {
+      "voice": "af_nicole",
+      "text": "Joseph, which are the hardest muscles for men to build? Abs. Chest. Quads. Triceps. Traps. Calves.",
+      "speed": 0.95,
+      "duration": 11.269333333333334,
+      "sample_rate": 24000,
+      "input_integrated_lufs": "-21.59",
+      "gain_db": 1.02,
+      "processing": "constant gain only; 6ms edge fades; no time stretch, pitch shift, denoise, compression or limiter",
+      "generated_together": true
+    },
+    {
+      "voice": "af_nova",
+      "text": "Joseph, which are the hardest muscles for men to build? Abs. Chest. Quads. Triceps. Traps. Calves.",
+      "speed": 0.95,
+      "duration": 6.682666666666667,
+      "sample_rate": 24000,
+      "input_integrated_lufs": "-27.96",
+      "gain_db": 7.02,
+      "processing": "constant gain only; 6ms edge fades; no time stretch, pitch shift, denoise, compression or limiter",
+      "generated_together": true
+    }
+  ]
+}
