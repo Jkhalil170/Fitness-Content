@@ -1,0 +1,24 @@
+{
+  "paid_services_used": false,
+  "model_license": "Apache-2.0",
+  "samples": [
+    {
+      "option": "A",
+      "voice": "af_heart",
+      "speed": 1.0,
+      "native_length_conditioning": true,
+      "text": "Joseph, which are the hardest muscles for men to build?",
+      "question_seconds": 2.9013333333333335,
+      "file": "heart-A-comparison.mp3"
+    },
+    {
+      "option": "B",
+      "voice": "af_heart",
+      "speed": 1.04,
+      "native_length_conditioning": true,
+      "text": "Joseph... which are the hardest muscles for men to build?",
+      "question_seconds": 2.816,
+      "file": "heart-B-comparison.mp3"
+    }
+  ]
+}
