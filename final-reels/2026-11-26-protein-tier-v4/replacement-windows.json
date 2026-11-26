@@ -1,0 +1,26 @@
+[
+  {
+    "item_index": 6,
+    "item": "Nonfat Greek Yogurt",
+    "start_frame": 1296,
+    "end_frame": 1342,
+    "start": 44.689655172413794,
+    "end": 46.275862068965516,
+    "replacement_source": "IMG_6308-compressed.MOV",
+    "source_frame_start": 1566,
+    "source_frame_end": 1612,
+    "audio_unchanged": true
+  },
+  {
+    "item_index": 10,
+    "item": "Cottage Cheese (Low-Fat)",
+    "start_frame": 2171,
+    "end_frame": 2217,
+    "start": 74.86206896551724,
+    "end": 76.44827586206897,
+    "replacement_source": "IMG_6308-compressed.MOV",
+    "source_frame_start": 1566,
+    "source_frame_end": 1612,
+    "audio_unchanged": true
+  }
+]

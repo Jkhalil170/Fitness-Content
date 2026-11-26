@@ -1,0 +1,48 @@
+{
+  "revision": 4,
+  "only_reaching_waiting_shots_replaced": true,
+  "replacement_windows": [
+    {
+      "item_index": 6,
+      "item": "Nonfat Greek Yogurt",
+      "start_frame": 1296,
+      "end_frame": 1342,
+      "start": 44.689655172413794,
+      "end": 46.275862068965516,
+      "replacement_source": "IMG_6308-compressed.MOV",
+      "source_frame_start": 1566,
+      "source_frame_end": 1612,
+      "audio_unchanged": true
+    },
+    {
+      "item_index": 10,
+      "item": "Cottage Cheese (Low-Fat)",
+      "start_frame": 2171,
+      "end_frame": 2217,
+      "start": 74.86206896551724,
+      "end": 76.44827586206897,
+      "replacement_source": "IMG_6308-compressed.MOV",
+      "source_frame_start": 1566,
+      "source_frame_end": 1612,
+      "audio_unchanged": true
+    }
+  ],
+  "original_v3_audio_packets_bit_identical": true,
+  "original_audio_packet_timestamps_unchanged": true,
+  "audio_packet_sha256": "68ee1277fdfac58a7771133b1aef0c4bfa7fcbf61921b041611feb726ed9a4d8",
+  "frames": 2828,
+  "duration_seconds": 97.51724137931035,
+  "resolution": "1080x1920",
+  "fps": 29,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "color": "SDR Rec.709",
+  "repeated_presenter_frame_pairs": 0,
+  "outside_replacement_windows_mean_ssim": 0.9968283644005848,
+  "all_table_graphics_mean_ssim": 0.9994229816124469,
+  "table_graphics_minimum_ssim": 0.9965,
+  "timing_and_caption_positions_unchanged": true,
+  "no_paid_services_used": true,
+  "file_bytes": 53961893,
+  "sha256": "bdc761f830436bec5a435be4151c71a816af919dac4567a96b4fd10a353be8f9"
+}
