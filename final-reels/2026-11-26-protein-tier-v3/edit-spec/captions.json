@@ -1,0 +1,452 @@
+[
+  {
+    "start": 0.1,
+    "end": 1.085,
+    "text": "Peanut butter.",
+    "speaker": "AI"
+  },
+  {
+    "start": 1.560818965517241,
+    "end": 2.262693965517242,
+    "text": "D tier.",
+    "speaker": "presenter"
+  },
+  {
+    "start": 2.4315921724137937,
+    "end": 3.694655172413793,
+    "text": "Everyone calls it a protein",
+    "speaker": "presenter"
+  },
+  {
+    "start": 3.709655172413793,
+    "end": 5.609405172413792,
+    "text": "source, but it's mostly fat.",
+    "speaker": "presenter"
+  },
+  {
+    "start": 5.753280172413794,
+    "end": 7.104655172413792,
+    "text": "You need a ridiculous amount",
+    "speaker": "presenter"
+  },
+  {
+    "start": 7.1196551724137915,
+    "end": 8.793967172413792,
+    "text": "to get serious protein.",
+    "speaker": "presenter"
+  },
+  {
+    "start": 8.97758620689655,
+    "end": 9.79958620689655,
+    "text": "Chicken breast.",
+    "speaker": "AI"
+  },
+  {
+    "start": 9.986198275862067,
+    "end": 10.724198275862065,
+    "text": "S tier.",
+    "speaker": "presenter"
+  },
+  {
+    "start": 10.895965517241379,
+    "end": 12.833965517241374,
+    "text": "insane protein for very few",
+    "speaker": "presenter"
+  },
+  {
+    "start": 12.848965517241375,
+    "end": 13.605840517241376,
+    "text": "calories",
+    "speaker": "presenter"
+  },
+  {
+    "start": 13.85611637931035,
+    "end": 15.102241379310342,
+    "text": "It's boring as hell, but",
+    "speaker": "presenter"
+  },
+  {
+    "start": 15.117241379310343,
+    "end": 16.622241379310353,
+    "text": "there's a reason every bodybuilder",
+    "speaker": "presenter"
+  },
+  {
+    "start": 16.637241379310353,
+    "end": 17.407554379310348,
+    "text": "eats it.",
+    "speaker": "presenter"
+  },
+  {
+    "start": 17.563793103448273,
+    "end": 18.290793103448273,
+    "text": "Whole eggs.",
+    "speaker": "AI"
+  },
+  {
+    "start": 18.491258620689653,
+    "end": 19.216695620689656,
+    "text": "B tier.",
+    "speaker": "presenter"
+  },
+  {
+    "start": 19.350874999999995,
+    "end": 21.065000000000012,
+    "text": "Excellent protein and nutrients,",
+    "speaker": "presenter"
+  },
+  {
+    "start": 21.270000000000003,
+    "end": 22.860124999999996,
+    "text": "but the yolks add calories.",
+    "speaker": "presenter"
+  },
+  {
+    "start": 23.135439655172405,
+    "end": 24.36568965517243,
+    "text": "Great food but contain a",
+    "speaker": "presenter"
+  },
+  {
+    "start": 24.380689655172432,
+    "end": 25.30593965517243,
+    "text": "lot of fat.",
+    "speaker": "presenter"
+  },
+  {
+    "start": 25.460344827586205,
+    "end": 26.363344827586204,
+    "text": "Protein bars.",
+    "speaker": "AI"
+  },
+  {
+    "start": 26.533744034482766,
+    "end": 27.32618103448276,
+    "text": "C tier.",
+    "speaker": "presenter"
+  },
+  {
+    "start": 27.514107758620682,
+    "end": 28.75948275862067,
+    "text": "Convenient when you're busy,",
+    "speaker": "presenter"
+  },
+  {
+    "start": 28.94448275862068,
+    "end": 29.96948275862067,
+    "text": "but some have nearly as",
+    "speaker": "presenter"
+  },
+  {
+    "start": 29.984482758620672,
+    "end": 31.309482758620675,
+    "text": "many calories as a candy",
+    "speaker": "presenter"
+  },
+  {
+    "start": 31.324482758620675,
+    "end": 33.49081896551724,
+    "text": "bar. Read the damn label.",
+    "speaker": "presenter"
+  },
+  {
+    "start": 33.66724137931034,
+    "end": 34.41224137931034,
+    "text": "Shrimp.",
+    "speaker": "AI"
+  },
+  {
+    "start": 34.61625431034482,
+    "end": 35.38856731034482,
+    "text": "S tier.",
+    "speaker": "presenter"
+  },
+  {
+    "start": 35.538340517241366,
+    "end": 37.27396551724136,
+    "text": "high protein, very low calories,",
+    "speaker": "presenter"
+  },
+  {
+    "start": 37.378965517241355,
+    "end": 38.73102851724139,
+    "text": "and actually tastes good.",
+    "speaker": "presenter"
+  },
+  {
+    "start": 38.89310344827586,
+    "end": 39.71210344827586,
+    "text": "Regular cheese.",
+    "speaker": "AI"
+  },
+  {
+    "start": 39.83125862068965,
+    "end": 40.58713362068965,
+    "text": "D tier.",
+    "speaker": "presenter"
+  },
+  {
+    "start": 40.75518534482758,
+    "end": 41.70431034482758,
+    "text": "It has protein,",
+    "speaker": "presenter"
+  },
+  {
+    "start": 41.94931034482758,
+    "end": 42.77431034482758,
+    "text": "sure, but you're getting a",
+    "speaker": "presenter"
+  },
+  {
+    "start": 42.789310344827584,
+    "end": 43.99431034482758,
+    "text": "whole lot of calories along",
+    "speaker": "presenter"
+  },
+  {
+    "start": 44.00931034482758,
+    "end": 44.666935344827586,
+    "text": "with it.",
+    "speaker": "presenter"
+  },
+  {
+    "start": 44.839655172413785,
+    "end": 46.09111350574712,
+    "text": "Nonfat Greek yogurt.",
+    "speaker": "AI"
+  },
+  {
+    "start": 46.29493103448275,
+    "end": 47.02986903448275,
+    "text": "A tier.",
+    "speaker": "presenter"
+  },
+  {
+    "start": 47.20241975862069,
+    "end": 48.88948275862069,
+    "text": "high protein, low calories, and",
+    "speaker": "presenter"
+  },
+  {
+    "start": 48.90448275862069,
+    "end": 50.936034482758615,
+    "text": "surprisingly filling. One of the",
+    "speaker": "presenter"
+  },
+  {
+    "start": 50.951034482758615,
+    "end": 52.15603448275861,
+    "text": "easiest ways to hit your",
+    "speaker": "presenter"
+  },
+  {
+    "start": 52.171034482758614,
+    "end": 53.214471482758604,
+    "text": "protein goal.",
+    "speaker": "presenter"
+  },
+  {
+    "start": 53.39137931034482,
+    "end": 53.85862931034482,
+    "text": "Almonds.",
+    "speaker": "AI"
+  },
+  {
+    "start": 54.04062499999999,
+    "end": 54.74643799999999,
+    "text": "F tier.",
+    "speaker": "presenter"
+  },
+  {
+    "start": 54.841232758620684,
+    "end": 55.87948275862069,
+    "text": "People eat a handful and",
+    "speaker": "presenter"
+  },
+  {
+    "start": 55.89448275862069,
+    "end": 56.85948275862068,
+    "text": "act like they've hit their",
+    "speaker": "presenter"
+  },
+  {
+    "start": 56.87448275862068,
+    "end": 58.54362068965516,
+    "text": "protein goal. Bro you just",
+    "speaker": "presenter"
+  },
+  {
+    "start": 58.55862068965516,
+    "end": 60.20362068965515,
+    "text": "ate 200 calories for 6",
+    "speaker": "presenter"
+  },
+  {
+    "start": 60.218620689655154,
+    "end": 61.43855868965516,
+    "text": "grams of protein",
+    "speaker": "presenter"
+  },
+  {
+    "start": 61.59827586206895,
+    "end": 63.56627586206895,
+    "text": "Lean ground beef, ninety-five percent or more.",
+    "speaker": "AI"
+  },
+  {
+    "start": 63.70683786206895,
+    "end": 64.40227586206896,
+    "text": "A tier.",
+    "speaker": "presenter"
+  },
+  {
+    "start": 64.57323275862066,
+    "end": 65.9794827586207,
+    "text": "Great protein and plenty of",
+    "speaker": "presenter"
+  },
+  {
+    "start": 65.9944827586207,
+    "end": 66.80685775862068,
+    "text": "nutrients.",
+    "speaker": "presenter"
+  },
+  {
+    "start": 66.97758620689655,
+    "end": 67.66433620689655,
+    "text": "Egg whites.",
+    "speaker": "AI"
+  },
+  {
+    "start": 67.84762499999998,
+    "end": 68.596938,
+    "text": "S tier.",
+    "speaker": "presenter"
+  },
+  {
+    "start": 68.611938,
+    "end": 70.32499999999999,
+    "text": "almost pure protein with barely",
+    "speaker": "presenter"
+  },
+  {
+    "start": 70.33999999999999,
+    "end": 71.80258620689656,
+    "text": "any fat. You can eat",
+    "speaker": "presenter"
+  },
+  {
+    "start": 71.81758620689656,
+    "end": 73.48258620689654,
+    "text": "a massive portion without destroying",
+    "speaker": "presenter"
+  },
+  {
+    "start": 73.49758620689654,
+    "end": 74.82646120689655,
+    "text": "your calorie budget.",
+    "speaker": "presenter"
+  },
+  {
+    "start": 75.01206896551724,
+    "end": 76.32769396551724,
+    "text": "Low-fat cottage cheese.",
+    "speaker": "AI"
+  },
+  {
+    "start": 76.48767241379309,
+    "end": 77.1807974137931,
+    "text": "B tier.",
+    "speaker": "presenter"
+  },
+  {
+    "start": 77.34557758620689,
+    "end": 79.17970258620689,
+    "text": "high protein and pretty filling",
+    "speaker": "presenter"
+  },
+  {
+    "start": 79.2382672413793,
+    "end": 80.52051724137934,
+    "text": "The texture is questionable,",
+    "speaker": "presenter"
+  },
+  {
+    "start": 80.76551724137931,
+    "end": 82.24545524137935,
+    "text": "but the macros are solid.",
+    "speaker": "presenter"
+  },
+  {
+    "start": 82.42586206896553,
+    "end": 83.27486206896553,
+    "text": "Turkey breast.",
+    "speaker": "AI"
+  },
+  {
+    "start": 83.45565351724139,
+    "end": 84.1663405172414,
+    "text": "A tier.",
+    "speaker": "presenter"
+  },
+  {
+    "start": 84.32740948275864,
+    "end": 85.55603448275865,
+    "text": "almost as lean as chicken",
+    "speaker": "presenter"
+  },
+  {
+    "start": 85.57103448275865,
+    "end": 87.82879310344828,
+    "text": "and packed with protein. Basically,",
+    "speaker": "presenter"
+  },
+  {
+    "start": 87.91379310344831,
+    "end": 89.64748110344829,
+    "text": "chicken's less popular cousin.",
+    "speaker": "presenter"
+  },
+  {
+    "start": 89.80517241379312,
+    "end": 90.56729741379311,
+    "text": "White fish.",
+    "speaker": "AI"
+  },
+  {
+    "start": 90.74324734482758,
+    "end": 91.4827483448276,
+    "text": "A tier.",
+    "speaker": "presenter"
+  },
+  {
+    "start": 91.63897679310344,
+    "end": 93.16741379310342,
+    "text": "loads of protein for very",
+    "speaker": "presenter"
+  },
+  {
+    "start": 93.18241379310342,
+    "end": 94.12535179310345,
+    "text": "few calories.",
+    "speaker": "presenter"
+  },
+  {
+    "start": 94.36768103448279,
+    "end": 95.36293103448277,
+    "text": "The only problem is making",
+    "speaker": "presenter"
+  },
+  {
+    "start": 95.37793103448277,
+    "end": 96.74293103448277,
+    "text": "it taste like something worth",
+    "speaker": "presenter"
+  },
+  {
+    "start": 96.75793103448277,
+    "end": 97.38411903448278,
+    "text": "eating.",
+    "speaker": "presenter"
+  }
+]

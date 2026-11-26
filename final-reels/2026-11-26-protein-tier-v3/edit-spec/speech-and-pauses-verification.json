@@ -1,0 +1,138 @@
+{
+  "calories_endings": [
+    {
+      "item": "Chicken Breast",
+      "word": "calories",
+      "source_end": 32.758620689655174,
+      "retained_post_word_seconds": 0.4567456896551718,
+      "original_ending_samples_verified": 18240,
+      "maximum_source_sample_error": 0.0,
+      "restored_after_old_gate_rms": 0.0035587004385888577,
+      "fullband_sample_rate": 48000
+    },
+    {
+      "item": "Whole Eggs",
+      "word": "calories",
+      "source_end": 66.10344827586206,
+      "retained_post_word_seconds": 0.478323275862067,
+      "original_ending_samples_verified": 18240,
+      "maximum_source_sample_error": 0.0,
+      "restored_after_old_gate_rms": 0.0043565635569393635,
+      "fullband_sample_rate": 48000
+    },
+    {
+      "item": "White Fish",
+      "word": "calories",
+      "source_end": 150.17241379310346,
+      "retained_post_word_seconds": 0.4544757931034553,
+      "original_ending_samples_verified": 18240,
+      "maximum_source_sample_error": 0.0,
+      "restored_after_old_gate_rms": 0.004040687810629606,
+      "fullband_sample_rate": 48000
+    }
+  ],
+  "all_13_announcements_have_continuous_camera_shots": true,
+  "pauses": [
+    {
+      "item": "Peanut Butter",
+      "audible_AI_end_local": 0.9845416666666666,
+      "first_internal_edit_local": 1.3793103448275863,
+      "one_continuous_camera_shot_during_announcement": true,
+      "mode": "single continuous camera-facing pause with short dissolve into tier"
+    },
+    {
+      "item": "Chicken Breast",
+      "audible_AI_end_local": 0.9078750000000003,
+      "first_internal_edit_local": 1.8965517241379308,
+      "one_continuous_camera_shot_during_announcement": true,
+      "mode": "one continuous native pause and spoken tier"
+    },
+    {
+      "item": "Whole Eggs",
+      "audible_AI_end_local": 0.806833333333332,
+      "first_internal_edit_local": 1.793103448275862,
+      "one_continuous_camera_shot_during_announcement": true,
+      "mode": "one continuous native pause and spoken tier"
+    },
+    {
+      "item": "Protein Bars",
+      "audible_AI_end_local": 0.9928749999999986,
+      "first_internal_edit_local": 2.03448275862069,
+      "one_continuous_camera_shot_during_announcement": true,
+      "mode": "one continuous native pause and spoken tier"
+    },
+    {
+      "item": "Shrimp",
+      "audible_AI_end_local": 0.7937499999999986,
+      "first_internal_edit_local": 1.8620689655172413,
+      "one_continuous_camera_shot_during_announcement": true,
+      "mode": "one continuous native pause and spoken tier"
+    },
+    {
+      "item": "Regular Cheese",
+      "audible_AI_end_local": 0.8587500000000015,
+      "first_internal_edit_local": 1.793103448275862,
+      "one_continuous_camera_shot_during_announcement": true,
+      "mode": "one continuous native pause and spoken tier"
+    },
+    {
+      "item": "Nonfat Greek Yogurt",
+      "audible_AI_end_local": 1.332958333333332,
+      "first_internal_edit_local": 1.4137931034482758,
+      "one_continuous_camera_shot_during_announcement": true,
+      "mode": "single continuous camera-facing pause with short dissolve into tier"
+    },
+    {
+      "item": "Almonds",
+      "audible_AI_end_local": 0.5565416666666653,
+      "first_internal_edit_local": 1.4482758620689655,
+      "one_continuous_camera_shot_during_announcement": true,
+      "mode": "one continuous native pause and spoken tier"
+    },
+    {
+      "item": "Lean Ground Beef 95% or more",
+      "audible_AI_end_local": 2.0572083333333318,
+      "first_internal_edit_local": 2.0689655172413794,
+      "one_continuous_camera_shot_during_announcement": true,
+      "mode": "single continuous camera-facing pause with short dissolve into tier"
+    },
+    {
+      "item": "Egg Whites",
+      "audible_AI_end_local": 0.747583333333339,
+      "first_internal_edit_local": 1.6206896551724137,
+      "one_continuous_camera_shot_during_announcement": true,
+      "mode": "one continuous native pause and spoken tier"
+    },
+    {
+      "item": "Cottage Cheese (Low-Fat)",
+      "audible_AI_end_local": 1.3748333333333391,
+      "first_internal_edit_local": 1.4137931034482758,
+      "one_continuous_camera_shot_during_announcement": true,
+      "mode": "single continuous camera-facing pause with short dissolve into tier"
+    },
+    {
+      "item": "Turkey Breast",
+      "audible_AI_end_local": 0.9168750000000057,
+      "first_internal_edit_local": 1.8965517241379308,
+      "one_continuous_camera_shot_during_announcement": true,
+      "mode": "one continuous native pause and spoken tier"
+    },
+    {
+      "item": "White Fish",
+      "audible_AI_end_local": 0.801333333333339,
+      "first_internal_edit_local": 1.8275862068965516,
+      "one_continuous_camera_shot_during_announcement": true,
+      "mode": "one continuous native pause and spoken tier"
+    }
+  ],
+  "original_audio": "Full-band stereo original, 44.1 kHz source resampled to 48 kHz; no word-end gates",
+  "reported_v2_timestamps_addressed": [
+    25,
+    33,
+    38,
+    45,
+    74,
+    81,
+    89
+  ]
+}

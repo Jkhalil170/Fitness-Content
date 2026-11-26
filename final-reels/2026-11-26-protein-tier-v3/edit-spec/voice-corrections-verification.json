@@ -1,0 +1,13 @@
+{
+  "peanut_before": {
+    "median_voiced_pitch_hz": 214.28571428571428,
+    "voiced_frames": 41
+  },
+  "peanut_after": {
+    "median_voiced_pitch_hz": 108.5995085995086,
+    "voiced_frames": 52
+  },
+  "shrimp_duration_before_seconds": 0.227,
+  "shrimp_duration_after_seconds": 0.745,
+  "voice": "am_liam, approved sample style, no pitch shifting"
+}
