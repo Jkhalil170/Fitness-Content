@@ -1,0 +1,93 @@
+[
+  {
+    "item": "Peanut Butter",
+    "frames": 240,
+    "identical_adjacent_frames": 0,
+    "AI_before_tier": true,
+    "reveal_after_tier": true
+  },
+  {
+    "item": "Chicken Breast",
+    "frames": 245,
+    "identical_adjacent_frames": 0,
+    "AI_before_tier": true,
+    "reveal_after_tier": true
+  },
+  {
+    "item": "Whole Eggs",
+    "frames": 223,
+    "identical_adjacent_frames": 0,
+    "AI_before_tier": true,
+    "reveal_after_tier": true
+  },
+  {
+    "item": "Protein Bars",
+    "frames": 237,
+    "identical_adjacent_frames": 0,
+    "AI_before_tier": true,
+    "reveal_after_tier": true
+  },
+  {
+    "item": "Shrimp",
+    "frames": 143,
+    "identical_adjacent_frames": 0,
+    "AI_before_tier": true,
+    "reveal_after_tier": true
+  },
+  {
+    "item": "Regular Cheese",
+    "frames": 184,
+    "identical_adjacent_frames": 0,
+    "AI_before_tier": true,
+    "reveal_after_tier": true
+  },
+  {
+    "item": "Nonfat Greek Yogurt",
+    "frames": 249,
+    "identical_adjacent_frames": 0,
+    "AI_before_tier": true,
+    "reveal_after_tier": true
+  },
+  {
+    "item": "Almonds",
+    "frames": 238,
+    "identical_adjacent_frames": 0,
+    "AI_before_tier": true,
+    "reveal_after_tier": true
+  },
+  {
+    "item": "Lean Ground Beef 95% or more",
+    "frames": 169,
+    "identical_adjacent_frames": 0,
+    "AI_before_tier": true,
+    "reveal_after_tier": true
+  },
+  {
+    "item": "Egg Whites",
+    "frames": 232,
+    "identical_adjacent_frames": 0,
+    "AI_before_tier": true,
+    "reveal_after_tier": true
+  },
+  {
+    "item": "Cottage Cheese (Low-Fat)",
+    "frames": 216,
+    "identical_adjacent_frames": 0,
+    "AI_before_tier": true,
+    "reveal_after_tier": true
+  },
+  {
+    "item": "Turkey Breast",
+    "frames": 211,
+    "identical_adjacent_frames": 0,
+    "AI_before_tier": true,
+    "reveal_after_tier": true
+  },
+  {
+    "item": "White Fish",
+    "frames": 217,
+    "identical_adjacent_frames": 0,
+    "AI_before_tier": true,
+    "reveal_after_tier": true
+  }
+]

@@ -1,0 +1,270 @@
+{
+  "checks": [
+    {
+      "item": "Peanut Butter",
+      "opacity_before_tier_reveal": 0,
+      "opacity_after_tier_reveal": 1
+    },
+    {
+      "item": "Chicken Breast",
+      "opacity_before_tier_reveal": 0,
+      "opacity_after_tier_reveal": 1
+    },
+    {
+      "item": "Whole Eggs",
+      "opacity_before_tier_reveal": 0,
+      "opacity_after_tier_reveal": 1
+    },
+    {
+      "item": "Protein Bars",
+      "opacity_before_tier_reveal": 0,
+      "opacity_after_tier_reveal": 1
+    },
+    {
+      "item": "Shrimp",
+      "opacity_before_tier_reveal": 0,
+      "opacity_after_tier_reveal": 1
+    },
+    {
+      "item": "Regular Cheese",
+      "opacity_before_tier_reveal": 0,
+      "opacity_after_tier_reveal": 1
+    },
+    {
+      "item": "Nonfat Greek Yogurt",
+      "opacity_before_tier_reveal": 0,
+      "opacity_after_tier_reveal": 1
+    },
+    {
+      "item": "Almonds",
+      "opacity_before_tier_reveal": 0,
+      "opacity_after_tier_reveal": 1
+    },
+    {
+      "item": "Lean Ground Beef 95% or more",
+      "opacity_before_tier_reveal": 0,
+      "opacity_after_tier_reveal": 1
+    },
+    {
+      "item": "Egg Whites",
+      "opacity_before_tier_reveal": 0,
+      "opacity_after_tier_reveal": 1
+    },
+    {
+      "item": "Cottage Cheese (Low-Fat)",
+      "opacity_before_tier_reveal": 0,
+      "opacity_after_tier_reveal": 1
+    },
+    {
+      "item": "Turkey Breast",
+      "opacity_before_tier_reveal": 0,
+      "opacity_after_tier_reveal": 1
+    },
+    {
+      "item": "White Fish",
+      "opacity_before_tier_reveal": 0,
+      "opacity_after_tier_reveal": 1
+    }
+  ],
+  "layout": {
+    "heading": {
+      "x": 120,
+      "y": 1038,
+      "width": 840,
+      "height": 110,
+      "top": 1038,
+      "right": 960,
+      "bottom": 1148,
+      "left": 120
+    },
+    "table": {
+      "x": 60,
+      "y": 1170,
+      "width": 960,
+      "height": 684,
+      "top": 1170,
+      "right": 1020,
+      "bottom": 1854,
+      "left": 60
+    },
+    "letters": [
+      "S",
+      "A",
+      "B",
+      "C",
+      "D",
+      "F"
+    ],
+    "labels": [
+      {
+        "text": "Peanut Butter",
+        "rect": {
+          "x": 262.28125,
+          "y": 1703,
+          "width": 105.421875,
+          "height": 32,
+          "top": 1703,
+          "right": 367.703125,
+          "bottom": 1735,
+          "left": 262.28125
+        }
+      },
+      {
+        "text": "Chicken Breast",
+        "rect": {
+          "x": 260.640625,
+          "y": 1249,
+          "width": 108.703125,
+          "height": 32,
+          "top": 1249,
+          "right": 369.34375,
+          "bottom": 1281,
+          "left": 260.640625
+        }
+      },
+      {
+        "text": "Whole Eggs",
+        "rect": {
+          "x": 274.296875,
+          "y": 1476,
+          "width": 81.40625,
+          "height": 32,
+          "top": 1476,
+          "right": 355.703125,
+          "bottom": 1508,
+          "left": 274.296875
+        }
+      },
+      {
+        "text": "Protein Bars",
+        "rect": {
+          "x": 269.015625,
+          "y": 1589.5,
+          "width": 91.96875,
+          "height": 32,
+          "top": 1589.5,
+          "right": 360.984375,
+          "bottom": 1621.5,
+          "left": 269.015625
+        }
+      },
+      {
+        "text": "Shrimp",
+        "rect": {
+          "x": 488.25,
+          "y": 1249,
+          "width": 47.484375,
+          "height": 32,
+          "top": 1249,
+          "right": 535.734375,
+          "bottom": 1281,
+          "left": 488.25
+        }
+      },
+      {
+        "text": "Regular Cheese",
+        "rect": {
+          "x": 456.671875,
+          "y": 1703,
+          "width": 110.65625,
+          "height": 32,
+          "top": 1703,
+          "right": 567.328125,
+          "bottom": 1735,
+          "left": 456.671875
+        }
+      },
+      {
+        "text": "Nonfat Greek Yogurt",
+        "rect": {
+          "x": 240.421875,
+          "y": 1362.5,
+          "width": 149.15625,
+          "height": 32,
+          "top": 1362.5,
+          "right": 389.578125,
+          "bottom": 1394.5,
+          "left": 240.421875
+        }
+      },
+      {
+        "text": "Almonds",
+        "rect": {
+          "x": 284.71875,
+          "y": 1816.5,
+          "width": 60.546875,
+          "height": 32,
+          "top": 1816.5,
+          "right": 345.265625,
+          "bottom": 1848.5,
+          "left": 284.71875
+        }
+      },
+      {
+        "text": "95%+ Lean Ground Beef",
+        "rect": {
+          "x": 429.265625,
+          "y": 1362.5,
+          "width": 165.46875,
+          "height": 32,
+          "top": 1362.5,
+          "right": 594.734375,
+          "bottom": 1394.5,
+          "left": 429.265625
+        }
+      },
+      {
+        "text": "Egg Whites",
+        "rect": {
+          "x": 670.109375,
+          "y": 1249,
+          "width": 77.78125,
+          "height": 32,
+          "top": 1249,
+          "right": 747.890625,
+          "bottom": 1281,
+          "left": 670.109375
+        }
+      },
+      {
+        "text": "Low-Fat Cottage Cheese",
+        "rect": {
+          "x": 427.234375,
+          "y": 1476,
+          "width": 169.53125,
+          "height": 32,
+          "top": 1476,
+          "right": 596.765625,
+          "bottom": 1508,
+          "left": 427.234375
+        }
+      },
+      {
+        "text": "Turkey Breast",
+        "rect": {
+          "x": 656.984375,
+          "y": 1362.5,
+          "width": 104.03125,
+          "height": 32,
+          "top": 1362.5,
+          "right": 761.015625,
+          "bottom": 1394.5,
+          "left": 656.984375
+        }
+      },
+      {
+        "text": "White Fish",
+        "rect": {
+          "x": 869.265625,
+          "y": 1362.5,
+          "width": 73.453125,
+          "height": 32,
+          "top": 1362.5,
+          "right": 942.71875,
+          "bottom": 1394.5,
+          "left": 869.265625
+        }
+      }
+    ]
+  }
+}

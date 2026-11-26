@@ -1,0 +1,9 @@
+{
+  "frames": 240,
+  "repeated_presenter_frames": 0,
+  "audio_master_correlation": 0.9998799313216137,
+  "AI_RMS": 0.20408570766448975,
+  "AI_before_tier": true,
+  "tier_reveal_delayed": true,
+  "first_second_continuous_source": true
+}

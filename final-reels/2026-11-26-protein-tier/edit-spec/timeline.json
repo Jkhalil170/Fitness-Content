@@ -1,0 +1,2059 @@
+{
+  "duration": 96.6896551724138,
+  "fps": 29,
+  "items": [
+    {
+      "item": "Peanut Butter",
+      "tier": "D",
+      "index": 0,
+      "announcement": "Peanut butter.",
+      "file": "/workspace/work/protein-tier-reel/narration/item-00.wav",
+      "duration": 8.275862068965518,
+      "voice": "am_liam",
+      "speed": 1.02,
+      "start": 0,
+      "parts": [
+        {
+          "source": "6308",
+          "source_start": 54.03448275862069,
+          "source_end": 55.41379310344828,
+          "frame_start": 1567,
+          "frame_end": 1607,
+          "frames": 40,
+          "offset": 0,
+          "spoken": false
+        },
+        {
+          "source": "6308",
+          "source_start": 2.6206896551724137,
+          "source_end": 3.3793103448275863,
+          "frame_start": 76,
+          "frame_end": 98,
+          "frames": 22,
+          "offset": 1.3793103448275863,
+          "spoken": true,
+          "voice_start": 2.65375,
+          "voice_end": 3.265625
+        },
+        {
+          "source": "6308",
+          "source_start": 6.689655172413793,
+          "source_end": 9.827586206896552,
+          "frame_start": 194,
+          "frame_end": 285,
+          "frames": 91,
+          "offset": 2.137931034482759,
+          "spoken": true,
+          "voice_start": 6.736937,
+          "voice_end": 9.724749999999998
+        },
+        {
+          "source": "6308",
+          "source_start": 14.0,
+          "source_end": 17.0,
+          "frame_start": 406,
+          "frame_end": 493,
+          "frames": 87,
+          "offset": 5.275862068965518,
+          "spoken": true,
+          "voice_start": 14.058625,
+          "voice_end": 16.909312
+        }
+      ],
+      "words": [
+        {
+          "text": "D",
+          "start": 1.4573706896551721,
+          "end": 1.6944644396551722
+        },
+        {
+          "text": "tier.",
+          "start": 1.6944644396551722,
+          "end": 1.9842456896551726
+        },
+        {
+          "text": "Everyone",
+          "start": 2.205212862068966,
+          "end": 2.528275862068967
+        },
+        {
+          "text": "calls",
+          "start": 2.528275862068967,
+          "end": 2.8482758620689657
+        },
+        {
+          "text": "it",
+          "start": 2.8482758620689657,
+          "end": 3.028275862068967
+        },
+        {
+          "text": "a",
+          "start": 3.028275862068967,
+          "end": 3.168275862068966
+        },
+        {
+          "text": "protein",
+          "start": 3.168275862068966,
+          "end": 3.468275862068965
+        },
+        {
+          "text": "source,",
+          "start": 3.468275862068965,
+          "end": 3.788275862068965
+        },
+        {
+          "text": "but",
+          "start": 3.9482758620689653,
+          "end": 4.068275862068966
+        },
+        {
+          "text": "it's",
+          "start": 4.068275862068966,
+          "end": 4.328275862068964
+        },
+        {
+          "text": "mostly",
+          "start": 4.328275862068964,
+          "end": 4.668275862068964
+        },
+        {
+          "text": "fat.",
+          "start": 4.668275862068964,
+          "end": 5.133025862068966
+        },
+        {
+          "text": "You",
+          "start": 5.354487068965518,
+          "end": 5.465862068965517
+        },
+        {
+          "text": "need",
+          "start": 5.465862068965517,
+          "end": 5.625862068965517
+        },
+        {
+          "text": "a",
+          "start": 5.625862068965517,
+          "end": 5.785862068965518
+        },
+        {
+          "text": "ridiculous",
+          "start": 5.785862068965518,
+          "end": 6.145862068965517
+        },
+        {
+          "text": "amount",
+          "start": 6.145862068965517,
+          "end": 6.705862068965516
+        },
+        {
+          "text": "to",
+          "start": 6.705862068965516,
+          "end": 6.965862068965517
+        },
+        {
+          "text": "get",
+          "start": 6.965862068965517,
+          "end": 7.125862068965517
+        },
+        {
+          "text": "serious",
+          "start": 7.125862068965517,
+          "end": 7.545862068965519
+        },
+        {
+          "text": "protein.",
+          "start": 7.545862068965519,
+          "end": 8.145174068965517
+        }
+      ],
+      "ai_start": 0.035,
+      "reveal": 2.0689655172413794,
+      "tier_at": 1.4573706896551721
+    },
+    {
+      "item": "Chicken Breast",
+      "tier": "S",
+      "index": 1,
+      "announcement": "Chicken breast.",
+      "file": "/workspace/work/protein-tier-reel/narration/item-01.wav",
+      "duration": 8.448275862068966,
+      "voice": "am_liam",
+      "speed": 1.02,
+      "start": 8.275862068965518,
+      "parts": [
+        {
+          "source": "6308",
+          "source_start": 23.06896551724138,
+          "source_end": 24.517241379310345,
+          "frame_start": 669,
+          "frame_end": 711,
+          "frames": 42,
+          "offset": 0,
+          "spoken": false
+        },
+        {
+          "source": "6308",
+          "source_start": 24.79310344827586,
+          "source_end": 25.586206896551722,
+          "frame_start": 719,
+          "frame_end": 742,
+          "frames": 23,
+          "offset": 1.4482758620689655,
+          "spoken": true,
+          "voice_start": 24.83775,
+          "voice_end": 25.48575
+        },
+        {
+          "source": "6308",
+          "source_start": 29.75862068965517,
+          "source_end": 32.44827586206897,
+          "frame_start": 863,
+          "frame_end": 941,
+          "frames": 78,
+          "offset": 2.2413793103448274,
+          "spoken": true,
+          "voice_start": 29.822,
+          "voice_end": 32.341875
+        },
+        {
+          "source": "6308",
+          "source_start": 38.275862068965516,
+          "source_end": 41.793103448275865,
+          "frame_start": 1110,
+          "frame_end": 1212,
+          "frames": 102,
+          "offset": 4.931034482758621,
+          "spoken": true,
+          "voice_start": 38.333875,
+          "voice_end": 41.695313
+        }
+      ],
+      "words": [
+        {
+          "text": "S",
+          "start": 9.813784482758624,
+          "end": 10.067134482758624
+        },
+        {
+          "text": "tier.",
+          "start": 10.067134482758624,
+          "end": 10.37678448275862
+        },
+        {
+          "text": "insane",
+          "start": 10.600620689655177,
+          "end": 11.058620689655175
+        },
+        {
+          "text": "protein",
+          "start": 11.058620689655175,
+          "end": 11.618620689655177
+        },
+        {
+          "text": "for",
+          "start": 11.618620689655177,
+          "end": 11.93862068965517
+        },
+        {
+          "text": "very",
+          "start": 11.93862068965517,
+          "end": 12.198620689655176
+        },
+        {
+          "text": "few",
+          "start": 12.198620689655176,
+          "end": 12.538620689655179
+        },
+        {
+          "text": "calories",
+          "start": 12.538620689655179,
+          "end": 13.060495689655173
+        },
+        {
+          "text": "It's",
+          "start": 13.284909482758628,
+          "end": 13.55103448275863
+        },
+        {
+          "text": "boring",
+          "start": 13.55103448275863,
+          "end": 13.77103448275863
+        },
+        {
+          "text": "as",
+          "start": 13.77103448275863,
+          "end": 14.03103448275862
+        },
+        {
+          "text": "hell,",
+          "start": 14.03103448275862,
+          "end": 14.311034482758622
+        },
+        {
+          "text": "but",
+          "start": 14.471034482758633,
+          "end": 14.53103448275862
+        },
+        {
+          "text": "there's",
+          "start": 14.53103448275862,
+          "end": 14.77103448275863
+        },
+        {
+          "text": "a",
+          "start": 14.77103448275863,
+          "end": 14.91103448275863
+        },
+        {
+          "text": "reason",
+          "start": 14.91103448275863,
+          "end": 15.13103448275863
+        },
+        {
+          "text": "every",
+          "start": 15.13103448275863,
+          "end": 15.491034482758629
+        },
+        {
+          "text": "bodybuilder",
+          "start": 15.491034482758629,
+          "end": 16.05103448275863
+        },
+        {
+          "text": "eats",
+          "start": 16.05103448275863,
+          "end": 16.331034482758632
+        },
+        {
+          "text": "it.",
+          "start": 16.331034482758632,
+          "end": 16.61103448275862
+        }
+      ],
+      "ai_start": 8.310862068965518,
+      "reveal": 10.448275862068966,
+      "tier_at": 9.813784482758624
+    },
+    {
+      "item": "Whole Eggs",
+      "tier": "B",
+      "index": 2,
+      "announcement": "Whole eggs.",
+      "file": "/workspace/work/protein-tier-reel/narration/item-02.wav",
+      "duration": 7.689655172413792,
+      "voice": "am_liam",
+      "speed": 1.02,
+      "start": 16.724137931034484,
+      "parts": [
+        {
+          "source": "6308",
+          "source_start": 76.62068965517241,
+          "source_end": 77.96551724137932,
+          "frame_start": 2222,
+          "frame_end": 2261,
+          "frames": 39,
+          "offset": 0,
+          "spoken": false
+        },
+        {
+          "source": "6308",
+          "source_start": 55.93103448275862,
+          "source_end": 56.689655172413794,
+          "frame_start": 1622,
+          "frame_end": 1644,
+          "frames": 22,
+          "offset": 1.3448275862068966,
+          "spoken": true,
+          "voice_start": 55.963499999999996,
+          "voice_end": 56.598937
+        },
+        {
+          "source": "6308",
+          "source_start": 62.310344827586206,
+          "source_end": 65.75862068965517,
+          "frame_start": 1807,
+          "frame_end": 1907,
+          "frames": 100,
+          "offset": 2.103448275862069,
+          "spoken": true,
+          "voice_start": 62.345875,
+          "voice_end": 65.665125
+        },
+        {
+          "source": "6308",
+          "source_start": 69.44827586206897,
+          "source_end": 71.58620689655173,
+          "frame_start": 2014,
+          "frame_end": 2076,
+          "frames": 62,
+          "offset": 5.551724137931034,
+          "spoken": true,
+          "voice_start": 69.50975,
+          "voice_end": 71.49025
+        }
+      ],
+      "words": [
+        {
+          "text": "B",
+          "start": 18.14643103448276,
+          "end": 18.39412768448276
+        },
+        {
+          "text": "tier.",
+          "start": 18.39412768448276,
+          "end": 18.696868034482762
+        },
+        {
+          "text": "Excellent",
+          "start": 18.88311637931035,
+          "end": 19.40724137931035
+        },
+        {
+          "text": "protein",
+          "start": 19.40724137931035,
+          "end": 19.90724137931035
+        },
+        {
+          "text": "and",
+          "start": 19.90724137931035,
+          "end": 20.087241379310342
+        },
+        {
+          "text": "nutrients,",
+          "start": 20.087241379310342,
+          "end": 20.527241379310354
+        },
+        {
+          "text": "but",
+          "start": 20.787241379310345,
+          "end": 20.82724137931035
+        },
+        {
+          "text": "the",
+          "start": 20.82724137931035,
+          "end": 21.027241379310354
+        },
+        {
+          "text": "yolks",
+          "start": 21.027241379310354,
+          "end": 21.307241379310355
+        },
+        {
+          "text": "add",
+          "start": 21.307241379310355,
+          "end": 21.587241379310342
+        },
+        {
+          "text": "calories.",
+          "start": 21.587241379310342,
+          "end": 22.142366379310346
+        },
+        {
+          "text": "Great",
+          "start": 22.357336206896534,
+          "end": 22.567586206896564
+        },
+        {
+          "text": "food",
+          "start": 22.567586206896564,
+          "end": 22.847586206896565
+        },
+        {
+          "text": "but",
+          "start": 22.847586206896565,
+          "end": 23.047586206896554
+        },
+        {
+          "text": "contain",
+          "start": 23.047586206896554,
+          "end": 23.407586206896568
+        },
+        {
+          "text": "a",
+          "start": 23.407586206896568,
+          "end": 23.587586206896546
+        },
+        {
+          "text": "lot",
+          "start": 23.587586206896546,
+          "end": 23.827586206896555
+        },
+        {
+          "text": "of",
+          "start": 23.827586206896555,
+          "end": 23.98758620689655
+        },
+        {
+          "text": "fat.",
+          "start": 23.98758620689655,
+          "end": 24.277836206896538
+        }
+      ],
+      "ai_start": 16.759137931034484,
+      "reveal": 18.79310344827586,
+      "tier_at": 18.14643103448276
+    },
+    {
+      "item": "Protein Bars",
+      "tier": "C",
+      "index": 3,
+      "announcement": "Protein bars.",
+      "file": "/workspace/work/protein-tier-reel/narration/item-03.wav",
+      "duration": 8.172413793103448,
+      "voice": "am_liam",
+      "speed": 1.02,
+      "start": 24.413793103448278,
+      "parts": [
+        {
+          "source": "6308",
+          "source_start": 99.17241379310344,
+          "source_end": 100.3103448275862,
+          "frame_start": 2876,
+          "frame_end": 2909,
+          "frames": 33,
+          "offset": 0,
+          "spoken": false
+        },
+        {
+          "source": "6309",
+          "source_start": 3.4827586206896552,
+          "source_end": 3.9310344827586206,
+          "frame_start": 101,
+          "frame_end": 114,
+          "frames": 13,
+          "offset": 1.1379310344827587,
+          "spoken": false
+        },
+        {
+          "source": "6308",
+          "source_start": 78.3103448275862,
+          "source_end": 79.13793103448276,
+          "frame_start": 2271,
+          "frame_end": 2295,
+          "frames": 24,
+          "offset": 1.5862068965517242,
+          "spoken": true,
+          "voice_start": 78.350813,
+          "voice_end": 79.05325
+        },
+        {
+          "source": "6308",
+          "source_start": 85.41379310344827,
+          "source_end": 89.75862068965517,
+          "frame_start": 2477,
+          "frame_end": 2603,
+          "frames": 126,
+          "offset": 2.413793103448276,
+          "spoken": true,
+          "voice_start": 85.474625,
+          "voice_end": 89.65706300000001
+        },
+        {
+          "source": "6308",
+          "source_start": 93.10344827586206,
+          "source_end": 94.51724137931035,
+          "frame_start": 2700,
+          "frame_end": 2741,
+          "frames": 41,
+          "offset": 6.758620689655173,
+          "spoken": true,
+          "voice_start": 93.15275,
+          "voice_end": 94.43375
+        }
+      ],
+      "words": [
+        {
+          "text": "C",
+          "start": 26.085468172413798,
+          "end": 26.363314822413795
+        },
+        {
+          "text": "tier.",
+          "start": 26.363314822413795,
+          "end": 26.702905172413793
+        },
+        {
+          "text": "Convenient",
+          "start": 26.908418103448284,
+          "end": 27.343793103448277
+        },
+        {
+          "text": "when",
+          "start": 27.343793103448277,
+          "end": 27.603793103448282
+        },
+        {
+          "text": "you're",
+          "start": 27.603793103448282,
+          "end": 27.783793103448275
+        },
+        {
+          "text": "busy,",
+          "start": 27.783793103448275,
+          "end": 28.083793103448272
+        },
+        {
+          "text": "but",
+          "start": 28.32379310344828,
+          "end": 28.383793103448284
+        },
+        {
+          "text": "some",
+          "start": 28.383793103448284,
+          "end": 28.603793103448282
+        },
+        {
+          "text": "have",
+          "start": 28.603793103448282,
+          "end": 28.843793103448277
+        },
+        {
+          "text": "nearly",
+          "start": 28.843793103448277,
+          "end": 29.063793103448276
+        },
+        {
+          "text": "as",
+          "start": 29.063793103448276,
+          "end": 29.363793103448273
+        },
+        {
+          "text": "many",
+          "start": 29.363793103448273,
+          "end": 29.62379310344828
+        },
+        {
+          "text": "calories",
+          "start": 29.62379310344828,
+          "end": 29.923793103448276
+        },
+        {
+          "text": "as",
+          "start": 29.923793103448276,
+          "end": 30.223793103448273
+        },
+        {
+          "text": "a",
+          "start": 30.223793103448273,
+          "end": 30.40379310344828
+        },
+        {
+          "text": "candy",
+          "start": 30.40379310344828,
+          "end": 30.703793103448277
+        },
+        {
+          "text": "bar.",
+          "start": 30.703793103448277,
+          "end": 31.030856103448286
+        },
+        {
+          "text": "Read",
+          "start": 31.241715517241374,
+          "end": 31.47896551724139
+        },
+        {
+          "text": "the",
+          "start": 31.47896551724139,
+          "end": 31.738965517241382
+        },
+        {
+          "text": "damn",
+          "start": 31.738965517241382,
+          "end": 31.998965517241373
+        },
+        {
+          "text": "label.",
+          "start": 31.998965517241373,
+          "end": 32.46271551724138
+        }
+      ],
+      "ai_start": 24.448793103448278,
+      "reveal": 26.79310344827586,
+      "tier_at": 26.085468172413798
+    },
+    {
+      "item": "Shrimp",
+      "tier": "S",
+      "index": 4,
+      "announcement": "Shrimp.",
+      "file": "/workspace/work/protein-tier-reel/narration/item-04.wav",
+      "duration": 4.931034482758621,
+      "voice": "am_liam",
+      "speed": 1.02,
+      "start": 32.58620689655173,
+      "parts": [
+        {
+          "source": "6309",
+          "source_start": 18.275862068965516,
+          "source_end": 19.06896551724138,
+          "frame_start": 530,
+          "frame_end": 553,
+          "frames": 23,
+          "offset": 0,
+          "spoken": false
+        },
+        {
+          "source": "6309",
+          "source_start": 38.93103448275862,
+          "source_end": 39.10344827586207,
+          "frame_start": 1129,
+          "frame_end": 1134,
+          "frames": 5,
+          "offset": 0.7931034482758621,
+          "spoken": false
+        },
+        {
+          "source": "6308",
+          "source_start": 100.27586206896552,
+          "source_end": 101.10344827586206,
+          "frame_start": 2908,
+          "frame_end": 2932,
+          "frames": 24,
+          "offset": 0.9655172413793104,
+          "spoken": true,
+          "voice_start": 100.329875,
+          "voice_end": 101.01218800000001
+        },
+        {
+          "source": "6308",
+          "source_start": 104.41379310344827,
+          "source_end": 107.55172413793103,
+          "frame_start": 3028,
+          "frame_end": 3119,
+          "frames": 91,
+          "offset": 1.793103448275862,
+          "spoken": true,
+          "voice_start": 104.464375,
+          "voice_end": 107.46706300000001
+        }
+      ],
+      "words": [
+        {
+          "text": "S",
+          "start": 33.650737068965526,
+          "end": 33.91952791896553
+        },
+        {
+          "text": "tier.",
+          "start": 33.91952791896553,
+          "end": 34.24805006896551
+        },
+        {
+          "text": "high",
+          "start": 34.44989224137932,
+          "end": 34.655517241379314
+        },
+        {
+          "text": "protein,",
+          "start": 34.655517241379314,
+          "end": 35.155517241379314
+        },
+        {
+          "text": "very",
+          "start": 35.29551724137933,
+          "end": 35.47551724137931
+        },
+        {
+          "text": "low",
+          "start": 35.47551724137931,
+          "end": 35.75551724137931
+        },
+        {
+          "text": "calories,",
+          "start": 35.75551724137931,
+          "end": 36.11551724137932
+        },
+        {
+          "text": "and",
+          "start": 36.27551724137932,
+          "end": 36.37551724137931
+        },
+        {
+          "text": "actually",
+          "start": 36.37551724137931,
+          "end": 36.77551724137932
+        },
+        {
+          "text": "tastes",
+          "start": 36.77551724137932,
+          "end": 37.05551724137932
+        },
+        {
+          "text": "good.",
+          "start": 37.05551724137932,
+          "end": 37.415517241379305
+        }
+      ],
+      "ai_start": 32.621206896551726,
+      "reveal": 34.3448275862069,
+      "tier_at": 33.650737068965526
+    },
+    {
+      "item": "Regular Cheese",
+      "tier": "D",
+      "index": 5,
+      "announcement": "Regular cheese.",
+      "file": "/workspace/work/protein-tier-reel/narration/item-05.wav",
+      "duration": 6.344827586206897,
+      "voice": "am_liam",
+      "speed": 1.02,
+      "start": 37.51724137931035,
+      "parts": [
+        {
+          "source": "6309",
+          "source_start": 65.27586206896552,
+          "source_end": 66.17241379310344,
+          "frame_start": 1893,
+          "frame_end": 1919,
+          "frames": 26,
+          "offset": 0,
+          "spoken": false
+        },
+        {
+          "source": "6309",
+          "source_start": 75.96551724137932,
+          "source_end": 76.75862068965517,
+          "frame_start": 2203,
+          "frame_end": 2226,
+          "frames": 23,
+          "offset": 0.896551724137931,
+          "spoken": false
+        },
+        {
+          "source": "6309",
+          "source_start": 4.275862068965517,
+          "source_end": 5.068965517241379,
+          "frame_start": 124,
+          "frame_end": 147,
+          "frames": 23,
+          "offset": 1.6896551724137931,
+          "spoken": true,
+          "voice_start": 4.3035,
+          "voice_end": 4.969375
+        },
+        {
+          "source": "6309",
+          "source_start": 9.310344827586206,
+          "source_end": 13.172413793103448,
+          "frame_start": 270,
+          "frame_end": 382,
+          "frames": 112,
+          "offset": 2.4827586206896552,
+          "spoken": true,
+          "voice_start": 9.370875,
+          "voice_end": 13.092625
+        }
+      ],
+      "words": [
+        {
+          "text": "D",
+          "start": 39.27953448275863,
+          "end": 39.54092823275863
+        },
+        {
+          "text": "tier.",
+          "start": 39.54092823275863,
+          "end": 39.86040948275863
+        },
+        {
+          "text": "It",
+          "start": 40.0805301724138,
+          "end": 40.2196551724138
+        },
+        {
+          "text": "has",
+          "start": 40.2196551724138,
+          "end": 40.4796551724138
+        },
+        {
+          "text": "protein,",
+          "start": 40.4796551724138,
+          "end": 40.959655172413804
+        },
+        {
+          "text": "sure,",
+          "start": 41.2596551724138,
+          "end": 41.2996551724138
+        },
+        {
+          "text": "but",
+          "start": 41.459655172413804,
+          "end": 41.5396551724138
+        },
+        {
+          "text": "you're",
+          "start": 41.5396551724138,
+          "end": 41.7196551724138
+        },
+        {
+          "text": "getting",
+          "start": 41.7196551724138,
+          "end": 41.8796551724138
+        },
+        {
+          "text": "a",
+          "start": 41.8796551724138,
+          "end": 42.099655172413804
+        },
+        {
+          "text": "whole",
+          "start": 42.099655172413804,
+          "end": 42.239655172413805
+        },
+        {
+          "text": "lot",
+          "start": 42.239655172413805,
+          "end": 42.459655172413804
+        },
+        {
+          "text": "of",
+          "start": 42.459655172413804,
+          "end": 42.599655172413804
+        },
+        {
+          "text": "calories",
+          "start": 42.599655172413804,
+          "end": 42.959655172413804
+        },
+        {
+          "text": "along",
+          "start": 42.959655172413804,
+          "end": 43.3196551724138
+        },
+        {
+          "text": "with",
+          "start": 43.3196551724138,
+          "end": 43.599655172413804
+        },
+        {
+          "text": "it.",
+          "start": 43.599655172413804,
+          "end": 43.7996551724138
+        }
+      ],
+      "ai_start": 37.552241379310345,
+      "reveal": 39.93103448275862,
+      "tier_at": 39.27953448275863
+    },
+    {
+      "item": "Nonfat Greek Yogurt",
+      "tier": "A",
+      "index": 6,
+      "announcement": "Nonfat Greek yogurt.",
+      "file": "/workspace/work/protein-tier-reel/narration/item-06.wav",
+      "duration": 8.586206896551724,
+      "voice": "am_liam",
+      "speed": 1.02,
+      "start": 43.862068965517246,
+      "parts": [
+        {
+          "source": "6309",
+          "source_start": 101.62068965517241,
+          "source_end": 102.75862068965517,
+          "frame_start": 2947,
+          "frame_end": 2980,
+          "frames": 33,
+          "offset": 0,
+          "spoken": false
+        },
+        {
+          "source": "6309",
+          "source_start": 122.24137931034483,
+          "source_end": 123.10344827586206,
+          "frame_start": 3545,
+          "frame_end": 3570,
+          "frames": 25,
+          "offset": 1.1379310344827587,
+          "spoken": false
+        },
+        {
+          "source": "6309",
+          "source_start": 19.06896551724138,
+          "source_end": 19.862068965517242,
+          "frame_start": 553,
+          "frame_end": 576,
+          "frames": 23,
+          "offset": 2.0,
+          "spoken": true,
+          "voice_start": 19.112,
+          "voice_end": 19.756937999999998
+        },
+        {
+          "source": "6309",
+          "source_start": 24.103448275862068,
+          "source_end": 27.275862068965516,
+          "frame_start": 699,
+          "frame_end": 791,
+          "frames": 92,
+          "offset": 2.793103448275862,
+          "spoken": true,
+          "voice_start": 24.162937,
+          "voice_end": 27.166874999999997
+        },
+        {
+          "source": "6309",
+          "source_start": 30.551724137931036,
+          "source_end": 33.172413793103445,
+          "frame_start": 886,
+          "frame_end": 962,
+          "frames": 76,
+          "offset": 5.9655172413793105,
+          "spoken": true,
+          "voice_start": 30.592563,
+          "voice_end": 33.088437
+        }
+      ],
+      "words": [
+        {
+          "text": "A",
+          "start": 45.95010344827587,
+          "end": 46.202075548275864
+        },
+        {
+          "text": "tier.",
+          "start": 46.202075548275864,
+          "end": 46.51004144827586
+        },
+        {
+          "text": "high",
+          "start": 46.734661137931056,
+          "end": 46.92172413793105
+        },
+        {
+          "text": "protein,",
+          "start": 46.92172413793105,
+          "end": 47.42172413793105
+        },
+        {
+          "text": "low",
+          "start": 47.62172413793104,
+          "end": 47.70172413793105
+        },
+        {
+          "text": "calories,",
+          "start": 47.70172413793105,
+          "end": 48.14172413793105
+        },
+        {
+          "text": "and",
+          "start": 48.36172413793105,
+          "end": 48.42172413793105
+        },
+        {
+          "text": "surprisingly",
+          "start": 48.42172413793105,
+          "end": 49.021724137931045
+        },
+        {
+          "text": "filling.",
+          "start": 49.021724137931045,
+          "end": 49.678599137931045
+        },
+        {
+          "text": "One",
+          "start": 49.88842506896553,
+          "end": 50.01586206896552
+        },
+        {
+          "text": "of",
+          "start": 50.01586206896552,
+          "end": 50.15586206896552
+        },
+        {
+          "text": "the",
+          "start": 50.15586206896552,
+          "end": 50.29586206896552
+        },
+        {
+          "text": "easiest",
+          "start": 50.29586206896552,
+          "end": 50.61586206896553
+        },
+        {
+          "text": "ways",
+          "start": 50.61586206896553,
+          "end": 50.87586206896553
+        },
+        {
+          "text": "to",
+          "start": 50.87586206896553,
+          "end": 51.15586206896552
+        },
+        {
+          "text": "hit",
+          "start": 51.15586206896552,
+          "end": 51.31586206896553
+        },
+        {
+          "text": "your",
+          "start": 51.31586206896553,
+          "end": 51.51586206896552
+        },
+        {
+          "text": "protein",
+          "start": 51.51586206896552,
+          "end": 51.955862068965516
+        },
+        {
+          "text": "goal.",
+          "start": 51.955862068965516,
+          "end": 52.324299068965516
+        }
+      ],
+      "ai_start": 43.89706896551724,
+      "reveal": 46.58620689655172,
+      "tier_at": 45.95010344827587
+    },
+    {
+      "item": "Almonds",
+      "tier": "F",
+      "index": 7,
+      "announcement": "Almonds.",
+      "file": "/workspace/work/protein-tier-reel/narration/item-07.wav",
+      "duration": 8.206896551724137,
+      "voice": "am_liam",
+      "speed": 1.02,
+      "start": 52.44827586206897,
+      "parts": [
+        {
+          "source": "6309",
+          "source_start": 142.17241379310346,
+          "source_end": 143.27586206896552,
+          "frame_start": 4123,
+          "frame_end": 4155,
+          "frames": 32,
+          "offset": 0,
+          "spoken": false
+        },
+        {
+          "source": "6309",
+          "source_start": 39.96551724137931,
+          "source_end": 40.724137931034484,
+          "frame_start": 1159,
+          "frame_end": 1181,
+          "frames": 22,
+          "offset": 1.103448275862069,
+          "spoken": true,
+          "voice_start": 39.995625,
+          "voice_end": 40.611438
+        },
+        {
+          "source": "6309",
+          "source_start": 47.758620689655174,
+          "source_end": 50.758620689655174,
+          "frame_start": 1385,
+          "frame_end": 1472,
+          "frames": 87,
+          "offset": 1.8620689655172413,
+          "spoken": true,
+          "voice_start": 47.80175,
+          "voice_end": 50.676313
+        },
+        {
+          "source": "6309",
+          "source_start": 55.241379310344826,
+          "source_end": 58.58620689655172,
+          "frame_start": 1602,
+          "frame_end": 1699,
+          "frames": 97,
+          "offset": 4.862068965517241,
+          "spoken": true,
+          "voice_start": 55.2975,
+          "voice_end": 58.484938
+        }
+      ],
+      "words": [
+        {
+          "text": "F",
+          "start": 53.62683189655173,
+          "end": 53.86569774655173
+        },
+        {
+          "text": "tier.",
+          "start": 53.86569774655173,
+          "end": 54.15764489655174
+        },
+        {
+          "text": "People",
+          "start": 54.37347413793103,
+          "end": 54.59172413793104
+        },
+        {
+          "text": "eat",
+          "start": 54.59172413793104,
+          "end": 54.77172413793103
+        },
+        {
+          "text": "a",
+          "start": 54.77172413793103,
+          "end": 54.89172413793102
+        },
+        {
+          "text": "handful",
+          "start": 54.89172413793102,
+          "end": 55.19172413793103
+        },
+        {
+          "text": "and",
+          "start": 55.19172413793103,
+          "end": 55.41172413793103
+        },
+        {
+          "text": "act",
+          "start": 55.41172413793103,
+          "end": 55.57172413793103
+        },
+        {
+          "text": "like",
+          "start": 55.57172413793103,
+          "end": 55.751724137931035
+        },
+        {
+          "text": "they've",
+          "start": 55.751724137931035,
+          "end": 56.031724137931036
+        },
+        {
+          "text": "hit",
+          "start": 56.031724137931036,
+          "end": 56.19172413793103
+        },
+        {
+          "text": "their",
+          "start": 56.19172413793103,
+          "end": 56.391724137931035
+        },
+        {
+          "text": "protein",
+          "start": 56.391724137931035,
+          "end": 56.79172413793103
+        },
+        {
+          "text": "goal.",
+          "start": 56.79172413793103,
+          "end": 57.18803713793103
+        },
+        {
+          "text": "Bro",
+          "start": 57.38646551724139,
+          "end": 57.528965517241375
+        },
+        {
+          "text": "you",
+          "start": 57.528965517241375,
+          "end": 57.66896551724139
+        },
+        {
+          "text": "just",
+          "start": 57.66896551724139,
+          "end": 57.86896551724138
+        },
+        {
+          "text": "ate",
+          "start": 57.86896551724138,
+          "end": 58.048965517241385
+        },
+        {
+          "text": "200",
+          "start": 58.048965517241385,
+          "end": 58.48896551724138
+        },
+        {
+          "text": "calories",
+          "start": 58.48896551724138,
+          "end": 58.908965517241384
+        },
+        {
+          "text": "for",
+          "start": 58.908965517241384,
+          "end": 59.24896551724137
+        },
+        {
+          "text": "6",
+          "start": 59.24896551724137,
+          "end": 59.528965517241375
+        },
+        {
+          "text": "grams",
+          "start": 59.528965517241375,
+          "end": 59.768965517241384
+        },
+        {
+          "text": "of",
+          "start": 59.768965517241384,
+          "end": 60.10896551724139
+        },
+        {
+          "text": "protein",
+          "start": 60.10896551724139,
+          "end": 60.513903517241374
+        }
+      ],
+      "ai_start": 52.483275862068965,
+      "reveal": 54.241379310344826,
+      "tier_at": 53.62683189655173
+    },
+    {
+      "item": "Lean Ground Beef 95% or more",
+      "tier": "A",
+      "index": 8,
+      "announcement": "Lean ground beef, ninety-five percent or more.",
+      "file": "/workspace/work/protein-tier-reel/narration/item-08.wav",
+      "duration": 5.827586206896552,
+      "voice": "am_liam",
+      "speed": 1.02,
+      "start": 60.6551724137931,
+      "parts": [
+        {
+          "source": "6308",
+          "source_start": 54.03448275862069,
+          "source_end": 55.93103448275862,
+          "frame_start": 1567,
+          "frame_end": 1622,
+          "frames": 55,
+          "offset": 0,
+          "spoken": false
+        },
+        {
+          "source": "6308",
+          "source_start": 23.06896551724138,
+          "source_end": 24.06896551724138,
+          "frame_start": 669,
+          "frame_end": 698,
+          "frames": 29,
+          "offset": 1.896551724137931,
+          "spoken": false
+        },
+        {
+          "source": "6309",
+          "source_start": 66.17241379310344,
+          "source_end": 66.93103448275862,
+          "frame_start": 1919,
+          "frame_end": 1941,
+          "frames": 22,
+          "offset": 2.896551724137931,
+          "spoken": true,
+          "voice_start": 66.213562,
+          "voice_end": 66.819
+        },
+        {
+          "source": "6309",
+          "source_start": 69.48275862068965,
+          "source_end": 71.65517241379311,
+          "frame_start": 2015,
+          "frame_end": 2078,
+          "frames": 63,
+          "offset": 3.655172413793103,
+          "spoken": true,
+          "voice_start": 69.53375,
+          "voice_end": 71.577375
+        }
+      ],
+      "words": [
+        {
+          "text": "A",
+          "start": 63.637872344827585,
+          "end": 63.87206944482759
+        },
+        {
+          "text": "tier.",
+          "start": 63.87206944482759,
+          "end": 64.1583103448276
+        },
+        {
+          "text": "Great",
+          "start": 64.38133620689655,
+          "end": 64.60758620689654
+        },
+        {
+          "text": "protein",
+          "start": 64.60758620689654,
+          "end": 65.10758620689654
+        },
+        {
+          "text": "and",
+          "start": 65.10758620689654,
+          "end": 65.36758620689656
+        },
+        {
+          "text": "plenty",
+          "start": 65.36758620689656,
+          "end": 65.56758620689658
+        },
+        {
+          "text": "of",
+          "start": 65.56758620689658,
+          "end": 65.78758620689655
+        },
+        {
+          "text": "nutrients.",
+          "start": 65.78758620689655,
+          "end": 66.36496120689657
+        }
+      ],
+      "ai_start": 60.6901724137931,
+      "reveal": 64.24137931034483,
+      "tier_at": 63.637872344827585
+    },
+    {
+      "item": "Egg Whites",
+      "tier": "S",
+      "index": 9,
+      "announcement": "Egg whites.",
+      "file": "/workspace/work/protein-tier-reel/narration/item-09.wav",
+      "duration": 8.0,
+      "voice": "am_liam",
+      "speed": 1.02,
+      "start": 66.48275862068965,
+      "parts": [
+        {
+          "source": "6308",
+          "source_start": 76.62068965517241,
+          "source_end": 77.82758620689656,
+          "frame_start": 2222,
+          "frame_end": 2257,
+          "frames": 35,
+          "offset": 0,
+          "spoken": false
+        },
+        {
+          "source": "6309",
+          "source_start": 76.75862068965517,
+          "source_end": 77.58620689655173,
+          "frame_start": 2226,
+          "frame_end": 2250,
+          "frames": 24,
+          "offset": 1.206896551724138,
+          "spoken": true,
+          "voice_start": 76.80262499999999,
+          "voice_end": 77.47675000000001
+        },
+        {
+          "source": "6309",
+          "source_start": 80.55172413793103,
+          "source_end": 83.17241379310344,
+          "frame_start": 2336,
+          "frame_end": 2412,
+          "frames": 76,
+          "offset": 2.0344827586206895,
+          "spoken": true,
+          "voice_start": 80.606938,
+          "voice_end": 83.096562
+        },
+        {
+          "source": "6309",
+          "source_start": 95.55172413793103,
+          "source_end": 98.89655172413794,
+          "frame_start": 2771,
+          "frame_end": 2868,
+          "frames": 97,
+          "offset": 4.655172413793103,
+          "spoken": true,
+          "voice_start": 95.593063,
+          "voice_end": 98.803875
+        }
+      ],
+      "words": [
+        {
+          "text": "S",
+          "start": 67.7786594827586,
+          "end": 68.0437657327586
+        },
+        {
+          "text": "tier.",
+          "start": 68.0437657327586,
+          "end": 68.36778448275862
+        },
+        {
+          "text": "almost",
+          "start": 68.59245524137931,
+          "end": 68.8855172413793
+        },
+        {
+          "text": "pure",
+          "start": 68.8855172413793,
+          "end": 69.28551724137931
+        },
+        {
+          "text": "protein",
+          "start": 69.28551724137931,
+          "end": 69.72551724137931
+        },
+        {
+          "text": "with",
+          "start": 69.72551724137931,
+          "end": 69.96551724137932
+        },
+        {
+          "text": "barely",
+          "start": 69.96551724137932,
+          "end": 70.30551724137929
+        },
+        {
+          "text": "any",
+          "start": 70.30551724137929,
+          "end": 70.6055172413793
+        },
+        {
+          "text": "fat.",
+          "start": 70.6055172413793,
+          "end": 71.0220792413793
+        },
+        {
+          "text": "You",
+          "start": 71.19926989655171,
+          "end": 71.31620689655172
+        },
+        {
+          "text": "can",
+          "start": 71.31620689655172,
+          "end": 71.45620689655173
+        },
+        {
+          "text": "eat",
+          "start": 71.45620689655173,
+          "end": 71.57620689655174
+        },
+        {
+          "text": "a",
+          "start": 71.57620689655174,
+          "end": 71.73620689655174
+        },
+        {
+          "text": "massive",
+          "start": 71.73620689655174,
+          "end": 71.99620689655173
+        },
+        {
+          "text": "portion",
+          "start": 71.99620689655173,
+          "end": 72.49620689655173
+        },
+        {
+          "text": "without",
+          "start": 72.49620689655173,
+          "end": 72.81620689655172
+        },
+        {
+          "text": "destroying",
+          "start": 72.81620689655172,
+          "end": 73.25620689655172
+        },
+        {
+          "text": "your",
+          "start": 73.25620689655172,
+          "end": 73.51620689655174
+        },
+        {
+          "text": "calorie",
+          "start": 73.51620689655174,
+          "end": 73.79620689655174
+        },
+        {
+          "text": "budget.",
+          "start": 73.79620689655174,
+          "end": 74.35008189655174
+        }
+      ],
+      "ai_start": 66.51775862068965,
+      "reveal": 68.44827586206897,
+      "tier_at": 67.7786594827586
+    },
+    {
+      "item": "Cottage Cheese (Low-Fat)",
+      "tier": "B",
+      "index": 10,
+      "announcement": "Low-fat cottage cheese.",
+      "file": "/workspace/work/protein-tier-reel/narration/item-10.wav",
+      "duration": 7.448275862068965,
+      "voice": "am_liam",
+      "speed": 1.02,
+      "start": 74.48275862068965,
+      "parts": [
+        {
+          "source": "6308",
+          "source_start": 99.17241379310344,
+          "source_end": 100.3103448275862,
+          "frame_start": 2876,
+          "frame_end": 2909,
+          "frames": 33,
+          "offset": 0,
+          "spoken": false
+        },
+        {
+          "source": "6309",
+          "source_start": 3.4827586206896552,
+          "source_end": 4.275862068965517,
+          "frame_start": 101,
+          "frame_end": 124,
+          "frames": 23,
+          "offset": 1.1379310344827587,
+          "spoken": false
+        },
+        {
+          "source": "6309",
+          "source_start": 18.275862068965516,
+          "source_end": 18.344827586206897,
+          "frame_start": 530,
+          "frame_end": 532,
+          "frames": 2,
+          "offset": 1.9310344827586208,
+          "spoken": false
+        },
+        {
+          "source": "6309",
+          "source_start": 102.75862068965517,
+          "source_end": 103.48275862068965,
+          "frame_start": 2980,
+          "frame_end": 3001,
+          "frames": 21,
+          "offset": 2.0,
+          "spoken": true,
+          "voice_start": 102.7875,
+          "voice_end": 103.390625
+        },
+        {
+          "source": "6309",
+          "source_start": 108.96551724137932,
+          "source_end": 110.72413793103448,
+          "frame_start": 3160,
+          "frame_end": 3211,
+          "frames": 51,
+          "offset": 2.7241379310344827,
+          "spoken": true,
+          "voice_start": 108.99575,
+          "voice_end": 110.639875
+        },
+        {
+          "source": "6309",
+          "source_start": 114.20689655172414,
+          "source_end": 117.17241379310344,
+          "frame_start": 3312,
+          "frame_end": 3398,
+          "frames": 86,
+          "offset": 4.482758620689655,
+          "spoken": true,
+          "voice_start": 114.26774999999999,
+          "voice_end": 117.08493800000001
+        }
+      ],
+      "words": [
+        {
+          "text": "B",
+          "start": 76.55663793103446,
+          "end": 76.78979418103445
+        },
+        {
+          "text": "tier.",
+          "start": 76.78979418103445,
+          "end": 77.07476293103446
+        },
+        {
+          "text": "high",
+          "start": 77.25712931034481,
+          "end": 77.43137931034481
+        },
+        {
+          "text": "protein",
+          "start": 77.43137931034481,
+          "end": 77.89137931034479
+        },
+        {
+          "text": "and",
+          "start": 77.89137931034479,
+          "end": 78.11137931034482
+        },
+        {
+          "text": "pretty",
+          "start": 78.11137931034482,
+          "end": 78.39137931034479
+        },
+        {
+          "text": "filling",
+          "start": 78.39137931034479,
+          "end": 78.84125431034481
+        },
+        {
+          "text": "The",
+          "start": 79.04637068965515,
+          "end": 79.15862068965514
+        },
+        {
+          "text": "texture",
+          "start": 79.15862068965514,
+          "end": 79.51862068965515
+        },
+        {
+          "text": "is",
+          "start": 79.51862068965515,
+          "end": 79.79862068965515
+        },
+        {
+          "text": "questionable,",
+          "start": 79.79862068965515,
+          "end": 80.25862068965516
+        },
+        {
+          "text": "but",
+          "start": 80.55862068965517,
+          "end": 80.65862068965514
+        },
+        {
+          "text": "the",
+          "start": 80.65862068965514,
+          "end": 80.79862068965515
+        },
+        {
+          "text": "macros",
+          "start": 80.79862068965515,
+          "end": 81.09862068965514
+        },
+        {
+          "text": "are",
+          "start": 81.09862068965514,
+          "end": 81.35862068965515
+        },
+        {
+          "text": "solid.",
+          "start": 81.35862068965515,
+          "end": 81.80355868965516
+        }
+      ],
+      "ai_start": 74.51775862068965,
+      "reveal": 77.17241379310344,
+      "tier_at": 76.55663793103446
+    },
+    {
+      "item": "Turkey Breast",
+      "tier": "A",
+      "index": 11,
+      "announcement": "Turkey breast.",
+      "file": "/workspace/work/protein-tier-reel/narration/item-11.wav",
+      "duration": 7.275862068965518,
+      "voice": "am_liam",
+      "speed": 1.02,
+      "start": 81.93103448275862,
+      "parts": [
+        {
+          "source": "6309",
+          "source_start": 38.93103448275862,
+          "source_end": 39.96551724137931,
+          "frame_start": 1129,
+          "frame_end": 1159,
+          "frames": 30,
+          "offset": 0,
+          "spoken": false
+        },
+        {
+          "source": "6309",
+          "source_start": 65.27586206896552,
+          "source_end": 65.65517241379311,
+          "frame_start": 1893,
+          "frame_end": 1904,
+          "frames": 11,
+          "offset": 1.0344827586206897,
+          "spoken": false
+        },
+        {
+          "source": "6309",
+          "source_start": 123.3103448275862,
+          "source_end": 124.06896551724138,
+          "frame_start": 3576,
+          "frame_end": 3598,
+          "frames": 22,
+          "offset": 1.4137931034482758,
+          "spoken": true,
+          "voice_start": 123.341688,
+          "voice_end": 123.96237500000001
+        },
+        {
+          "source": "6309",
+          "source_start": 131.3448275862069,
+          "source_end": 134.10344827586206,
+          "frame_start": 3809,
+          "frame_end": 3889,
+          "frames": 80,
+          "offset": 2.1724137931034484,
+          "spoken": true,
+          "voice_start": 131.391375,
+          "voice_end": 133.99975
+        },
+        {
+          "source": "6309",
+          "source_start": 136.79310344827587,
+          "source_end": 139.13793103448276,
+          "frame_start": 3967,
+          "frame_end": 4035,
+          "frames": 68,
+          "offset": 4.931034482758621,
+          "spoken": true,
+          "voice_start": 136.853562,
+          "voice_end": 139.03868799999998
+        }
+      ],
+      "words": [
+        {
+          "text": "A",
+          "start": 83.4211707586207,
+          "end": 83.6622299086207
+        },
+        {
+          "text": "tier.",
+          "start": 83.6622299086207,
+          "end": 83.9568577586207
+        },
+        {
+          "text": "almost",
+          "start": 84.16999568965517,
+          "end": 84.45862068965519
+        },
+        {
+          "text": "as",
+          "start": 84.45862068965519,
+          "end": 84.73862068965519
+        },
+        {
+          "text": "lean",
+          "start": 84.73862068965519,
+          "end": 84.9186206896552
+        },
+        {
+          "text": "as",
+          "start": 84.9186206896552,
+          "end": 85.09862068965518
+        },
+        {
+          "text": "chicken",
+          "start": 85.09862068965518,
+          "end": 85.39862068965519
+        },
+        {
+          "text": "and",
+          "start": 85.39862068965519,
+          "end": 85.61862068965519
+        },
+        {
+          "text": "packed",
+          "start": 85.61862068965519,
+          "end": 85.87862068965518
+        },
+        {
+          "text": "with",
+          "start": 85.87862068965518,
+          "end": 86.1386206896552
+        },
+        {
+          "text": "protein.",
+          "start": 86.1386206896552,
+          "end": 86.71837068965519
+        },
+        {
+          "text": "Basically,",
+          "start": 86.94252751724136,
+          "end": 87.42896551724135
+        },
+        {
+          "text": "chicken's",
+          "start": 87.56896551724137,
+          "end": 87.96896551724134
+        },
+        {
+          "text": "less",
+          "start": 87.96896551724134,
+          "end": 88.06896551724137
+        },
+        {
+          "text": "popular",
+          "start": 88.06896551724137,
+          "end": 88.58896551724135
+        },
+        {
+          "text": "cousin.",
+          "start": 88.58896551724135,
+          "end": 89.06765351724135
+        }
+      ],
+      "ai_start": 81.96603448275862,
+      "reveal": 84.03448275862068,
+      "tier_at": 83.4211707586207
+    },
+    {
+      "item": "White Fish",
+      "tier": "A",
+      "index": 12,
+      "announcement": "White fish.",
+      "file": "/workspace/work/protein-tier-reel/narration/item-12.wav",
+      "duration": 7.482758620689656,
+      "voice": "am_liam",
+      "speed": 1.02,
+      "start": 89.20689655172414,
+      "parts": [
+        {
+          "source": "6309",
+          "source_start": 75.96551724137932,
+          "source_end": 76.75862068965517,
+          "frame_start": 2203,
+          "frame_end": 2226,
+          "frames": 23,
+          "offset": 0,
+          "spoken": false
+        },
+        {
+          "source": "6309",
+          "source_start": 101.62068965517241,
+          "source_end": 102.10344827586206,
+          "frame_start": 2947,
+          "frame_end": 2961,
+          "frames": 14,
+          "offset": 0.7931034482758621,
+          "spoken": false
+        },
+        {
+          "source": "6309",
+          "source_start": 143.27586206896552,
+          "source_end": 144.06896551724137,
+          "frame_start": 4155,
+          "frame_end": 4178,
+          "frames": 23,
+          "offset": 1.2758620689655173,
+          "spoken": true,
+          "voice_start": 143.318937,
+          "voice_end": 143.968438
+        },
+        {
+          "source": "6309",
+          "source_start": 147.41379310344828,
+          "source_end": 149.86206896551724,
+          "frame_start": 4275,
+          "frame_end": 4346,
+          "frames": 71,
+          "offset": 2.0689655172413794,
+          "spoken": true,
+          "voice_start": 147.461563,
+          "voice_end": 149.757938
+        },
+        {
+          "source": "6309",
+          "source_start": 154.17241379310346,
+          "source_end": 157.13793103448276,
+          "frame_start": 4471,
+          "frame_end": 4557,
+          "frames": 86,
+          "offset": 4.517241379310345,
+          "spoken": true,
+          "voice_start": 154.22475,
+          "voice_end": 157.051188
+        }
+      ],
+      "words": [
+        {
+          "text": "A",
+          "start": 90.57083355172415,
+          "end": 90.82485900172415
+        },
+        {
+          "text": "tier.",
+          "start": 90.82485900172415,
+          "end": 91.13533455172416
+        },
+        {
+          "text": "loads",
+          "start": 91.34363196551723,
+          "end": 91.67206896551724
+        },
+        {
+          "text": "of",
+          "start": 91.67206896551724,
+          "end": 91.89206896551724
+        },
+        {
+          "text": "protein",
+          "start": 91.89206896551724,
+          "end": 92.29206896551725
+        },
+        {
+          "text": "for",
+          "start": 92.29206896551725,
+          "end": 92.57206896551725
+        },
+        {
+          "text": "very",
+          "start": 92.57206896551725,
+          "end": 92.87206896551723
+        },
+        {
+          "text": "few",
+          "start": 92.87206896551723,
+          "end": 93.15206896551723
+        },
+        {
+          "text": "calories.",
+          "start": 93.15206896551723,
+          "end": 93.59206896551723
+        },
+        {
+          "text": "The",
+          "start": 93.79647413793103,
+          "end": 93.91172413793103
+        },
+        {
+          "text": "only",
+          "start": 93.91172413793103,
+          "end": 94.03172413793104
+        },
+        {
+          "text": "problem",
+          "start": 94.03172413793104,
+          "end": 94.33172413793105
+        },
+        {
+          "text": "is",
+          "start": 94.33172413793105,
+          "end": 94.55172413793102
+        },
+        {
+          "text": "making",
+          "start": 94.55172413793102,
+          "end": 94.79172413793103
+        },
+        {
+          "text": "it",
+          "start": 94.79172413793103,
+          "end": 95.11172413793102
+        },
+        {
+          "text": "taste",
+          "start": 95.11172413793102,
+          "end": 95.35172413793103
+        },
+        {
+          "text": "like",
+          "start": 95.35172413793103,
+          "end": 95.61172413793102
+        },
+        {
+          "text": "something",
+          "start": 95.61172413793102,
+          "end": 95.91172413793103
+        },
+        {
+          "text": "worth",
+          "start": 95.91172413793103,
+          "end": 96.17172413793102
+        },
+        {
+          "text": "eating.",
+          "start": 96.17172413793102,
+          "end": 96.56291213793102
+        }
+      ],
+      "ai_start": 89.24189655172414,
+      "reveal": 91.20689655172414,
+      "tier_at": 90.57083355172415
+    }
+  ],
+  "voice": "Kokoro am_liam",
+  "paid_services_used": false
+}
