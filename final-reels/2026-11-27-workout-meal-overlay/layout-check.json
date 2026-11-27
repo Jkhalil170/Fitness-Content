@@ -1,0 +1,47 @@
+{
+  "headings": [
+    {
+      "text": "before you workout:",
+      "box": {
+        "x": 45,
+        "y": 620,
+        "width": 990,
+        "height": 90,
+        "top": 620,
+        "right": 1035,
+        "bottom": 710,
+        "left": 45
+      },
+      "overflow": false
+    },
+    {
+      "text": "after you workout:",
+      "box": {
+        "x": 45,
+        "y": 1000,
+        "width": 990,
+        "height": 90,
+        "top": 1000,
+        "right": 1035,
+        "bottom": 1090,
+        "left": 45
+      },
+      "overflow": false
+    },
+    {
+      "text": "before bed:",
+      "box": {
+        "x": 45,
+        "y": 1380,
+        "width": 990,
+        "height": 90,
+        "top": 1380,
+        "right": 1035,
+        "bottom": 1470,
+        "left": 45
+      },
+      "overflow": false
+    }
+  ],
+  "foods": 18
+}

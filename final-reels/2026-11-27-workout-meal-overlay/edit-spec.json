@@ -1,0 +1,46 @@
+{
+  "duration": 8.866666666666667,
+  "original_duration": 8.84,
+  "fps": 30,
+  "rows": [
+    {
+      "heading": "before you workout:",
+      "y": 620,
+      "foods": [
+        "banana",
+        "rice-cakes",
+        "honey",
+        "oatmeal",
+        "dates",
+        "black-coffee"
+      ]
+    },
+    {
+      "heading": "after you workout:",
+      "y": 1000,
+      "foods": [
+        "chicken-breast",
+        "white-rice",
+        "whey-protein",
+        "greek-yogurt",
+        "potatoes",
+        "berries"
+      ]
+    },
+    {
+      "heading": "before bed:",
+      "y": 1380,
+      "foods": [
+        "cottage-cheese",
+        "kiwi",
+        "greek-yogurt-bed",
+        "almonds",
+        "milk",
+        "oatmeal-bed"
+      ]
+    }
+  ],
+  "original_footage_and_audio": true,
+  "persistent_overlay": true,
+  "no_other_edits": true
+}

@@ -1,0 +1,27 @@
+{
+  "source_duration_seconds": 8.84,
+  "export_duration_seconds": 8.866666666666667,
+  "frame_count": 266,
+  "fps": 30,
+  "resolution": "1080x1920",
+  "codecs": "H264/AAC",
+  "color": "SDR Rec709, source HLG tone mapped with rotation honored",
+  "headings": [
+    "before you workout:",
+    "after you workout:",
+    "before bed:"
+  ],
+  "food_rows": 3,
+  "foods_per_row": 6,
+  "all_rows_visible_together": true,
+  "transparent_cutouts": 18,
+  "photo_boxes": false,
+  "original_background_and_body_preserved": true,
+  "no_speech_or_video_cuts": true,
+  "no_new_narration": true,
+  "no_subtitles_or_focus_paragraphs": true,
+  "original_audio_correlation": 0.9996268005825993,
+  "repeated_presenter_frames": 0,
+  "sha256": "779a19b60596a5910997ce265b2ea3c6a10e81fede464ed2dd4c11f5c9446926",
+  "bytes": 11207815
+}
