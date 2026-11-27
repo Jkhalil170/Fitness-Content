@@ -1,0 +1,239 @@
+[
+  {
+    "at": 3.95,
+    "text": [
+      "1.",
+      "2.",
+      "3.",
+      "4.",
+      "5.",
+      "PROTEIN FOR CUTTING"
+    ],
+    "foods": [
+      {
+        "name": "shrimp",
+        "box": {
+          "x": 155,
+          "y": 440,
+          "width": 225,
+          "height": 220,
+          "top": 440,
+          "right": 380,
+          "bottom": 660,
+          "left": 155
+        }
+      },
+      {
+        "name": "white fish",
+        "box": {
+          "x": 155,
+          "y": 675,
+          "width": 225,
+          "height": 220,
+          "top": 675,
+          "right": 380,
+          "bottom": 895,
+          "left": 155
+        }
+      },
+      {
+        "name": "tuna",
+        "box": {
+          "x": 155,
+          "y": 910,
+          "width": 225,
+          "height": 220,
+          "top": 910,
+          "right": 380,
+          "bottom": 1130,
+          "left": 155
+        }
+      },
+      {
+        "name": "egg whites",
+        "box": {
+          "x": 155,
+          "y": 1145,
+          "width": 225,
+          "height": 220,
+          "top": 1145,
+          "right": 380,
+          "bottom": 1365,
+          "left": 155
+        }
+      },
+      {
+        "name": "chicken breast",
+        "box": {
+          "x": 155,
+          "y": 1380,
+          "width": 225,
+          "height": 220,
+          "top": 1380,
+          "right": 380,
+          "bottom": 1600,
+          "left": 155
+        }
+      }
+    ],
+    "subtitles": 0
+  },
+  {
+    "at": 8.2,
+    "text": [
+      "1.",
+      "2.",
+      "3.",
+      "4.",
+      "5.",
+      "CARBS FOR CUTTING"
+    ],
+    "foods": [
+      {
+        "name": "apples",
+        "box": {
+          "x": 155,
+          "y": 440,
+          "width": 225,
+          "height": 220,
+          "top": 440,
+          "right": 380,
+          "bottom": 660,
+          "left": 155
+        }
+      },
+      {
+        "name": "bananas",
+        "box": {
+          "x": 155,
+          "y": 675,
+          "width": 225,
+          "height": 220,
+          "top": 675,
+          "right": 380,
+          "bottom": 895,
+          "left": 155
+        }
+      },
+      {
+        "name": "potatoes",
+        "box": {
+          "x": 155,
+          "y": 910,
+          "width": 225,
+          "height": 220,
+          "top": 910,
+          "right": 380,
+          "bottom": 1130,
+          "left": 155
+        }
+      },
+      {
+        "name": "sweet potatoes",
+        "box": {
+          "x": 155,
+          "y": 1145,
+          "width": 225,
+          "height": 220,
+          "top": 1145,
+          "right": 380,
+          "bottom": 1365,
+          "left": 155
+        }
+      },
+      {
+        "name": "white rice",
+        "box": {
+          "x": 155,
+          "y": 1380,
+          "width": 225,
+          "height": 220,
+          "top": 1380,
+          "right": 380,
+          "bottom": 1600,
+          "left": 155
+        }
+      }
+    ],
+    "subtitles": 0
+  },
+  {
+    "at": 12.18,
+    "text": [
+      "1.",
+      "2.",
+      "3.",
+      "4.",
+      "5.",
+      "FATS FOR CUTTING"
+    ],
+    "foods": [
+      {
+        "name": "olive oil",
+        "box": {
+          "x": 155,
+          "y": 440,
+          "width": 225,
+          "height": 220,
+          "top": 440,
+          "right": 380,
+          "bottom": 660,
+          "left": 155
+        }
+      },
+      {
+        "name": "avocados",
+        "box": {
+          "x": 155,
+          "y": 675,
+          "width": 225,
+          "height": 220,
+          "top": 675,
+          "right": 380,
+          "bottom": 895,
+          "left": 155
+        }
+      },
+      {
+        "name": "walnuts",
+        "box": {
+          "x": 155,
+          "y": 910,
+          "width": 225,
+          "height": 220,
+          "top": 910,
+          "right": 380,
+          "bottom": 1130,
+          "left": 155
+        }
+      },
+      {
+        "name": "sunflower seeds",
+        "box": {
+          "x": 155,
+          "y": 1145,
+          "width": 225,
+          "height": 220,
+          "top": 1145,
+          "right": 380,
+          "bottom": 1365,
+          "left": 155
+        }
+      },
+      {
+        "name": "almonds",
+        "box": {
+          "x": 155,
+          "y": 1380,
+          "width": 225,
+          "height": 220,
+          "top": 1380,
+          "right": 380,
+          "bottom": 1600,
+          "left": 155
+        }
+      }
+    ],
+    "subtitles": 0
+  }
+]

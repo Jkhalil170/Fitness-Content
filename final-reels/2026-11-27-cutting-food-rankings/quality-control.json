@@ -1,0 +1,145 @@
+{
+  "duration": 12.4,
+  "frames": 372,
+  "fps": 30,
+  "resolution": "1080x1920",
+  "codecs": "H264/AAC",
+  "color": "SDR Rec709",
+  "categories": 3,
+  "foods_per_category": 5,
+  "total_foods": 15,
+  "no_subtitles": true,
+  "only_category_titles_and_rank_numbers": true,
+  "transparent_cutouts_without_photo_boxes": true,
+  "assets_distinct_from_reference": true,
+  "AI_narration": false,
+  "original_audio_preserved": true,
+  "audio_correlation": 0.9998230859935091,
+  "repeated_presenter_frames": 0,
+  "continuous_original_camera_footage": true,
+  "source_brightness_preserved": true,
+  "asset_details": [
+    {
+      "food": "almonds",
+      "transparent_pixels": 18654,
+      "size": [
+        308,
+        234
+      ]
+    },
+    {
+      "food": "apples",
+      "transparent_pixels": 16143,
+      "size": [
+        244,
+        274
+      ]
+    },
+    {
+      "food": "avocados",
+      "transparent_pixels": 22368,
+      "size": [
+        308,
+        285
+      ]
+    },
+    {
+      "food": "bananas",
+      "transparent_pixels": 35119,
+      "size": [
+        302,
+        262
+      ]
+    },
+    {
+      "food": "chicken-breast",
+      "transparent_pixels": 19437,
+      "size": [
+        304,
+        223
+      ]
+    },
+    {
+      "food": "egg-whites",
+      "transparent_pixels": 20356,
+      "size": [
+        309,
+        226
+      ]
+    },
+    {
+      "food": "olive-oil",
+      "transparent_pixels": 20430,
+      "size": [
+        207,
+        302
+      ]
+    },
+    {
+      "food": "potatoes",
+      "transparent_pixels": 18511,
+      "size": [
+        306,
+        236
+      ]
+    },
+    {
+      "food": "shrimp",
+      "transparent_pixels": 14799,
+      "size": [
+        302,
+        197
+      ]
+    },
+    {
+      "food": "sunflower-seeds",
+      "transparent_pixels": 20061,
+      "size": [
+        305,
+        237
+      ]
+    },
+    {
+      "food": "sweet-potatoes",
+      "transparent_pixels": 17555,
+      "size": [
+        317,
+        228
+      ]
+    },
+    {
+      "food": "tuna",
+      "transparent_pixels": 13844,
+      "size": [
+        282,
+        265
+      ]
+    },
+    {
+      "food": "walnuts",
+      "transparent_pixels": 24628,
+      "size": [
+        302,
+        242
+      ]
+    },
+    {
+      "food": "white-fish",
+      "transparent_pixels": 29475,
+      "size": [
+        298,
+        253
+      ]
+    },
+    {
+      "food": "white-rice",
+      "transparent_pixels": 20249,
+      "size": [
+        295,
+        253
+      ]
+    }
+  ],
+  "sha256": "5170c43b9a038d5940ddaafc227cdb37c1f54f50499b208942873f115296e289",
+  "bytes": 14568394
+}

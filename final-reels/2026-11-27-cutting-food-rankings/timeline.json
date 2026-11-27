@@ -1,0 +1,90 @@
+{
+  "duration": 12.4,
+  "fps": 30,
+  "subtitles": false,
+  "AI_narration": false,
+  "original_audio": true,
+  "categories": [
+    {
+      "title": "PROTEIN FOR CUTTING",
+      "start": 0,
+      "end": 4.2,
+      "foods": [
+        [
+          "shrimp",
+          0
+        ],
+        [
+          "white-fish",
+          0.86
+        ],
+        [
+          "tuna",
+          1.8
+        ],
+        [
+          "egg-whites",
+          2.4
+        ],
+        [
+          "chicken-breast",
+          3.22
+        ]
+      ]
+    },
+    {
+      "title": "CARBS FOR CUTTING",
+      "start": 4.2,
+      "end": 8.35,
+      "foods": [
+        [
+          "apples",
+          4.32
+        ],
+        [
+          "bananas",
+          4.98
+        ],
+        [
+          "potatoes",
+          5.72
+        ],
+        [
+          "sweet-potatoes",
+          6.64
+        ],
+        [
+          "white-rice",
+          7.52
+        ]
+      ]
+    },
+    {
+      "title": "FATS FOR CUTTING",
+      "start": 8.35,
+      "end": 12.4,
+      "foods": [
+        [
+          "olive-oil",
+          8.48
+        ],
+        [
+          "avocados",
+          9.34
+        ],
+        [
+          "walnuts",
+          10.32
+        ],
+        [
+          "sunflower-seeds",
+          10.92
+        ],
+        [
+          "almonds",
+          11.78
+        ]
+      ]
+    }
+  ]
+}
