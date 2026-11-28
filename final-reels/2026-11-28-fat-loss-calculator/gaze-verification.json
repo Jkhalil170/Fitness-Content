@@ -1,0 +1,7 @@
+{
+  "retained_source_frames": 1275,
+  "detected_off_camera_frames": 0,
+  "normal_blinks_retained": true,
+  "native_video_moving": true,
+  "all_long_lookaways_and_walk_offs_removed": true
+}

@@ -1,0 +1,93 @@
+[
+  {
+    "row": 1,
+    "start": 0,
+    "text": "200lbs",
+    "color": "#C9324C",
+    "font_size": 76
+  },
+  {
+    "row": 1,
+    "start": 5.42344827586207,
+    "text": "200\u2212180",
+    "color": "#C9324C",
+    "font_size": 62
+  },
+  {
+    "row": 1,
+    "start": 7.015172413793103,
+    "text": "\u221220lbs",
+    "color": "#1585BC",
+    "font_size": 76
+  },
+  {
+    "row": 2,
+    "start": 9.819310344827588,
+    "text": "20\u00d73,500",
+    "color": "#C9324C",
+    "font_size": 54
+  },
+  {
+    "row": 2,
+    "start": 13.03448275862069,
+    "text": "70,000",
+    "color": "#1585BC",
+    "font_size": 72
+  },
+  {
+    "row": 3,
+    "start": 16.71241379310345,
+    "text": "70,000\u00f712",
+    "color": "#C9324C",
+    "font_size": 50
+  },
+  {
+    "row": 3,
+    "start": 21.06758620689655,
+    "text": "~5,830",
+    "color": "#1585BC",
+    "font_size": 74
+  },
+  {
+    "row": 4,
+    "start": 22.527586206896558,
+    "text": "~5,830\u00f77",
+    "color": "#C9324C",
+    "font_size": 50
+  },
+  {
+    "row": 4,
+    "start": 23.17758620689655,
+    "text": "~830 cals",
+    "color": "#1585BC",
+    "font_size": 64
+  },
+  {
+    "row": 5,
+    "start": 30.42344827586207,
+    "text": "180lbs",
+    "color": "#C9324C",
+    "font_size": 76
+  },
+  {
+    "row": 5,
+    "start": 33.84275862068965,
+    "text": "180\u00d71g",
+    "color": "#C9324C",
+    "font_size": 62
+  },
+  {
+    "row": 5,
+    "start": 35.602758620689656,
+    "text": "180g",
+    "color": "#1585BC",
+    "font_size": 76
+  },
+  {
+    "row": 6,
+    "start": 40.45724137931035,
+    "text": "Follow me",
+    "color": "#FFFF23",
+    "font_size": 58
+  }
+]
