@@ -1,0 +1,104 @@
+{
+  "duration": 7.3,
+  "source_duration": 7.2917,
+  "fps": 30,
+  "rows": [
+    {
+      "title": "Carbs for Fat Loss",
+      "heading_y": 690,
+      "image_y": 785,
+      "label_y": 945,
+      "count": 5,
+      "foods": [
+        [
+          "sweet-potatoes",
+          "Sweet potatoes"
+        ],
+        [
+          "bananas",
+          "Bananas"
+        ],
+        [
+          "white-rice",
+          "White rice"
+        ],
+        [
+          "apples",
+          "Apples"
+        ],
+        [
+          "potatoes",
+          "Potatoes"
+        ]
+      ]
+    },
+    {
+      "title": "Protein Sources for Fat Loss",
+      "heading_y": 1070,
+      "image_y": 1165,
+      "label_y": 1325,
+      "count": 6,
+      "foods": [
+        [
+          "ground-beef",
+          "93/7+ ground beef"
+        ],
+        [
+          "egg-whites",
+          "Egg whites"
+        ],
+        [
+          "white-fish",
+          "White fish"
+        ],
+        [
+          "greek-yogurt",
+          "Greek yogurt"
+        ],
+        [
+          "tuna",
+          "Tuna"
+        ],
+        [
+          "chicken-breast",
+          "Chicken breast"
+        ]
+      ]
+    },
+    {
+      "title": "Drinks for Fat Loss",
+      "heading_y": 1430,
+      "image_y": 1525,
+      "label_y": 1685,
+      "count": 6,
+      "foods": [
+        [
+          "sparkling-water",
+          "Sparkling water"
+        ],
+        [
+          "white-monster",
+          "0 sugar energy drinks"
+        ],
+        [
+          "diet-coke",
+          "0 sugar soda"
+        ],
+        [
+          "water",
+          "Water"
+        ],
+        [
+          "black-coffee",
+          "Black coffee"
+        ],
+        [
+          "unsweetened-tea",
+          "Unsweetened tea"
+        ]
+      ]
+    }
+  ],
+  "brand_top_right_omitted": true,
+  "original_audio_and_footage": true
+}

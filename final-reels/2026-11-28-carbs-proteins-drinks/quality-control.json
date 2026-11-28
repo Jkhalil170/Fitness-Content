@@ -1,0 +1,31 @@
+{
+  "source_duration_seconds": 7.2917,
+  "export_duration_seconds": 7.3,
+  "frame_count": 219,
+  "fps": 30,
+  "resolution": "1080x1920",
+  "codecs": "H264/AAC",
+  "color": "SDR Rec709, source HLG tone mapped with rotation honored",
+  "headings": [
+    "Carbs for Fat Loss",
+    "Protein Sources for Fat Loss",
+    "Drinks for Fat Loss"
+  ],
+  "food_rows": 3,
+  "foods_per_row": [
+    5,
+    6,
+    6
+  ],
+  "all_rows_visible_together": true,
+  "transparent_cutouts": 17,
+  "photo_boxes": false,
+  "original_background_and_body_preserved": true,
+  "no_speech_or_video_cuts": true,
+  "no_new_narration": true,
+  "no_subtitles_or_focus_paragraphs": true,
+  "original_audio_correlation": 0.9996288695561153,
+  "repeated_presenter_frames": 0,
+  "sha256": "9e16da8fe50d7fc8df62ca0e55d7bbc080c0d8e8b199fafaf4b2346d5fc18548",
+  "bytes": 7701082
+}
