@@ -1,0 +1,119 @@
+[
+  {
+    "part": "intro",
+    "frames": 105,
+    "planned_frames": 105,
+    "container_rounding_frames": 0,
+    "repeated_presenter_frames": 0,
+    "source_start": 0.4827586206896552,
+    "source_end": 4.103448275862069
+  },
+  {
+    "part": "current-goal",
+    "frames": 88,
+    "planned_frames": 88,
+    "container_rounding_frames": 0,
+    "repeated_presenter_frames": 0,
+    "source_start": 8.655172413793103,
+    "source_end": 11.689655172413794
+  },
+  {
+    "part": "pounds",
+    "frames": 64,
+    "planned_frames": 64,
+    "container_rounding_frames": 0,
+    "repeated_presenter_frames": 0,
+    "source_start": 16.20689655172414,
+    "source_end": 18.413793103448278
+  },
+  {
+    "part": "multiply",
+    "frames": 90,
+    "planned_frames": 90,
+    "container_rounding_frames": 0,
+    "repeated_presenter_frames": 0,
+    "source_start": 21.75862068965517,
+    "source_end": 24.862068965517242
+  },
+  {
+    "part": "total",
+    "frames": 105,
+    "planned_frames": 105,
+    "container_rounding_frames": 0,
+    "repeated_presenter_frames": 0,
+    "source_start": 35.3448275862069,
+    "source_end": 38.96551724137931
+  },
+  {
+    "part": "weeks",
+    "frames": 104,
+    "planned_frames": 104,
+    "container_rounding_frames": 0,
+    "repeated_presenter_frames": 0,
+    "source_start": 46.172413793103445,
+    "source_end": 49.758620689655174
+  },
+  {
+    "part": "weekly-and-daily",
+    "frames": 70,
+    "planned_frames": 70,
+    "container_rounding_frames": 0,
+    "repeated_presenter_frames": 0,
+    "source_start": 53.310344827586206,
+    "source_end": 55.724137931034484
+  },
+  {
+    "part": "create-deficit",
+    "frames": 95,
+    "planned_frames": 95,
+    "container_rounding_frames": 0,
+    "repeated_presenter_frames": 0,
+    "source_start": 67.89655172413794,
+    "source_end": 71.17241379310344
+  },
+  {
+    "part": "activity",
+    "frames": 80,
+    "planned_frames": 80,
+    "container_rounding_frames": 0,
+    "repeated_presenter_frames": 0,
+    "source_start": 76.17241379310344,
+    "source_end": 78.93103448275862
+  },
+  {
+    "part": "goal-protein",
+    "frames": 64,
+    "planned_frames": 64,
+    "container_rounding_frames": 0,
+    "repeated_presenter_frames": 0,
+    "source_start": 85.34482758620689,
+    "source_end": 87.55172413793103
+  },
+  {
+    "part": "protein",
+    "frames": 95,
+    "planned_frames": 95,
+    "container_rounding_frames": 0,
+    "repeated_presenter_frames": 0,
+    "source_start": 92.44827586206897,
+    "source_end": 95.72413793103448
+  },
+  {
+    "part": "muscle",
+    "frames": 85,
+    "planned_frames": 85,
+    "container_rounding_frames": 0,
+    "repeated_presenter_frames": 0,
+    "source_start": 105.06896551724138,
+    "source_end": 108.0
+  },
+  {
+    "part": "follow",
+    "frames": 86,
+    "planned_frames": 86,
+    "container_rounding_frames": 0,
+    "repeated_presenter_frames": 0,
+    "source_start": 111.13793103448276,
+    "source_end": 114.10344827586206
+  }
+]
