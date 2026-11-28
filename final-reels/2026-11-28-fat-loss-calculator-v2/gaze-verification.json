@@ -1,0 +1,10 @@
+{
+  "retained_source_frames": 1227,
+  "detected_off_camera_frames": 0,
+  "second_muscle_take_source": [
+    105.03448275862068,
+    108.10344827586206
+  ],
+  "old_23_second_tail_and_next_idle_lead_removed": true,
+  "normal_blinks_retained": true
+}
