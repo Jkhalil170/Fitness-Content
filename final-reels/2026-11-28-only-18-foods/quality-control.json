@@ -1,0 +1,28 @@
+{
+  "title": "The only 18 foods you need to get shredded",
+  "duration": 16.133333333333333,
+  "frames": 484,
+  "fps": 30,
+  "resolution": "1080x1920",
+  "codecs": "H264/AAC",
+  "color": "SDRRec709",
+  "numbered_items": 18,
+  "columns": [
+    9,
+    9
+  ],
+  "all18names_in_spoken_order": true,
+  "gap_after_pay_attention_removed": true,
+  "full_pay_attention_and_first_food_preserved": true,
+  "no_extra_conversational_subtitles": true,
+  "food_names_and_icons_reveal_together": true,
+  "already_revealed_foods_remain": true,
+  "original_voice_and_moving_footage": true,
+  "original_audio_correlation": 0.9998159214438188,
+  "repeated_presenter_frames": 0,
+  "no_speed_change": true,
+  "original_background_and_proportions_preserved": true,
+  "source_food_icons_generated_not_copied": true,
+  "sha256": "fb331d4ed3cb367f3039b528b15c93dbb72ad34b1f31e856d26818050d2121c1",
+  "bytes": 26288043
+}

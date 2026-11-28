@@ -1,0 +1,128 @@
+[
+  {
+    "number": 1,
+    "name": "Turkey breast",
+    "icon": "turkey-breast",
+    "source_at": 3.7,
+    "reveal_at": 1.833333333333334
+  },
+  {
+    "number": 2,
+    "name": "Whole eggs",
+    "icon": "whole-eggs",
+    "source_at": 4.76,
+    "reveal_at": 2.8933333333333326
+  },
+  {
+    "number": 3,
+    "name": "Chia seeds",
+    "icon": "chia-seeds",
+    "source_at": 5.44,
+    "reveal_at": 3.573333333333334
+  },
+  {
+    "number": 4,
+    "name": "Sweet potatoes",
+    "icon": "sweet-potatoes",
+    "source_at": 6.04,
+    "reveal_at": 4.173333333333334
+  },
+  {
+    "number": 5,
+    "name": "Tuna",
+    "icon": "tuna",
+    "source_at": 6.88,
+    "reveal_at": 5.013333333333334
+  },
+  {
+    "number": 6,
+    "name": "Almonds",
+    "icon": "almonds",
+    "source_at": 7.38,
+    "reveal_at": 5.513333333333334
+  },
+  {
+    "number": 7,
+    "name": "Black beans",
+    "icon": "black-beans",
+    "source_at": 8.08,
+    "reveal_at": 6.213333333333333
+  },
+  {
+    "number": 8,
+    "name": "Mixed berries",
+    "icon": "mixed-berries",
+    "source_at": 8.7,
+    "reveal_at": 6.833333333333332
+  },
+  {
+    "number": 9,
+    "name": "Lean ground beef",
+    "icon": "lean-ground-beef",
+    "source_at": 9.66,
+    "reveal_at": 7.793333333333333
+  },
+  {
+    "number": 10,
+    "name": "Oatmeal",
+    "icon": "oatmeal",
+    "source_at": 10.7,
+    "reveal_at": 8.833333333333332
+  },
+  {
+    "number": 11,
+    "name": "Sardines",
+    "icon": "sardines",
+    "source_at": 11.28,
+    "reveal_at": 9.413333333333332
+  },
+  {
+    "number": 12,
+    "name": "White fish",
+    "icon": "white-fish",
+    "source_at": 11.98,
+    "reveal_at": 10.113333333333333
+  },
+  {
+    "number": 13,
+    "name": "Non-fat Greek yogurt",
+    "icon": "nonfat-greek-yogurt",
+    "source_at": 12.54,
+    "reveal_at": 10.673333333333332
+  },
+  {
+    "number": 14,
+    "name": "Egg whites",
+    "icon": "egg-whites",
+    "source_at": 14.14,
+    "reveal_at": 12.273333333333333
+  },
+  {
+    "number": 15,
+    "name": "Walnuts",
+    "icon": "walnuts",
+    "source_at": 14.78,
+    "reveal_at": 12.913333333333334
+  },
+  {
+    "number": 16,
+    "name": "Watermelon",
+    "icon": "watermelon",
+    "source_at": 15.26,
+    "reveal_at": 13.393333333333334
+  },
+  {
+    "number": 17,
+    "name": "Cottage cheese",
+    "icon": "cottage-cheese",
+    "source_at": 16.26,
+    "reveal_at": 14.393333333333334
+  },
+  {
+    "number": 18,
+    "name": "Broccoli",
+    "icon": "broccoli",
+    "source_at": 17.24,
+    "reveal_at": 15.373333333333331
+  }
+]

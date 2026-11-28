@@ -1,0 +1,38 @@
+{
+  "duration": 16.133333333333333,
+  "frames": 484,
+  "fps": 30,
+  "crossfade_frames": 2,
+  "parts": [
+    {
+      "name": "pay-attention",
+      "source_start": 1.5,
+      "source_end": 3.2,
+      "start": 0.0,
+      "duration": 1.7,
+      "frames": 51,
+      "file": "assets/camera-0.mp4"
+    },
+    {
+      "name": "all-18-foods",
+      "source_start": 3.5,
+      "source_end": 18.0,
+      "start": 1.6333333333333333,
+      "duration": 14.5,
+      "frames": 435,
+      "file": "assets/camera-1.mp4"
+    }
+  ],
+  "gap_removed_source": [
+    3.2,
+    3.5
+  ],
+  "opening_quiet_trimmed_source": [
+    0,
+    1.5
+  ],
+  "ending_quiet_trimmed_source": [
+    18,
+    19.566667
+  ]
+}

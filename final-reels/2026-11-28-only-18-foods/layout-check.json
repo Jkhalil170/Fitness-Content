@@ -1,0 +1,133 @@
+{
+  "title": "The only 18 foods you need to get shredded",
+  "numbers": [
+    "1:",
+    "2:",
+    "3:",
+    "4:",
+    "5:",
+    "6:",
+    "7:",
+    "8:",
+    "9:",
+    "10:",
+    "11:",
+    "12:",
+    "13:",
+    "14:",
+    "15:",
+    "16:",
+    "17:",
+    "18:"
+  ],
+  "rows": [
+    {
+      "number": "1:",
+      "name": "Turkey breast",
+      "overflow": false,
+      "right": 442.234375
+    },
+    {
+      "number": "2:",
+      "name": "Whole eggs",
+      "overflow": false,
+      "right": 396.96875
+    },
+    {
+      "number": "3:",
+      "name": "Chia seeds",
+      "overflow": false,
+      "right": 384.6875
+    },
+    {
+      "number": "4:",
+      "name": "Sweet potatoes",
+      "overflow": false,
+      "right": 471.453125
+    },
+    {
+      "number": "5:",
+      "name": "Tuna",
+      "overflow": false,
+      "right": 275.34375
+    },
+    {
+      "number": "6:",
+      "name": "Almonds",
+      "overflow": false,
+      "right": 343.4375
+    },
+    {
+      "number": "7:",
+      "name": "Black beans",
+      "overflow": false,
+      "right": 408.984375
+    },
+    {
+      "number": "8:",
+      "name": "Mixed berries",
+      "overflow": false,
+      "right": 433.1875
+    },
+    {
+      "number": "9:",
+      "name": "Lean ground beef",
+      "overflow": false,
+      "right": 507.40625
+    },
+    {
+      "number": "10:",
+      "name": "Oatmeal",
+      "overflow": false,
+      "right": 872.046875
+    },
+    {
+      "number": "11:",
+      "name": "Sardines",
+      "overflow": false,
+      "right": 881.984375
+    },
+    {
+      "number": "12:",
+      "name": "White fish",
+      "overflow": false,
+      "right": 907.21875
+    },
+    {
+      "number": "13:",
+      "name": "Non-fat Greek yogurt",
+      "overflow": false,
+      "right": 1020.046875
+    },
+    {
+      "number": "14:",
+      "name": "Egg whites",
+      "overflow": false,
+      "right": 921.734375
+    },
+    {
+      "number": "15:",
+      "name": "Walnuts",
+      "overflow": false,
+      "right": 868.984375
+    },
+    {
+      "number": "16:",
+      "name": "Watermelon",
+      "overflow": false,
+      "right": 943.984375
+    },
+    {
+      "number": "17:",
+      "name": "Cottage cheese",
+      "overflow": false,
+      "right": 1007.71875
+    },
+    {
+      "number": "18:",
+      "name": "Broccoli",
+      "overflow": false,
+      "right": 871.6875
+    }
+  ]
+}
